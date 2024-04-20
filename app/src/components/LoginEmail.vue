@@ -38,7 +38,13 @@
           >
         </p>
         <div class="flex justify-center items-end sticky py-8 bottom-0">
-          <button class="text-white bg-green-600 px-4 py-2 rounded-md w-full">
+          <button
+            class="text-white bg-green-600 px-4 py-2 rounded-md w-full"
+            :style="{
+              opacity: !v$.email.$error && !v$.password.$error ? 1 : 0.5,
+            }"
+            :disabled="!(!v$.email.$error && !v$.password.$error)"
+          >
             login
           </button>
         </div>
