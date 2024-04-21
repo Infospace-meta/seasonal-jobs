@@ -103,16 +103,4 @@ const onSubmit = async () => {
     console.log("Form not submitted");
   }
 };
-
-const onSubmitDemo = async () => {
-  v$.value.$validate();
-  if (v$.value.$error) return;
-
-  try {
-    await authStore.login(formData);
-  } catch (error) {
-    if (error.response && error.response.data) {
-    }
-  }
-};
 </script>
