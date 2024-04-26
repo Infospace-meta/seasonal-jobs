@@ -1,5 +1,9 @@
 <template>
-  <div class="text-red-700">hello registration</div>
+  <div>
+    <RegistrationFormOnboarding />
+  </div>
 </template>
 
-<script setup></script>
+<script setup>
+import RegistrationFormOnboarding from "../components/RegistrationFormOnboarding.vue";
+</script>
