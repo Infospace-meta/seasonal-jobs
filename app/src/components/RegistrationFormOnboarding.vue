@@ -12,7 +12,7 @@
       </button>
       <div class="flex flex-col">
         <div class="">
-          <FirstName :formData="formData" v-if="currentStep === 3" />
+          <RegistrationDataName :formData="formData" v-if="currentStep === 3" />
           <p>
             <span
               v-for="error in vFirstName$.$errors"
@@ -45,10 +45,13 @@
 </template>
 
 <script setup>
-import { computed, ref, reactive } from "vue";
+import { ref } from "vue";
+import RegistrationDataName from "../components/RegistrationDataName.vue";
 
-// Import your components here
-import InputEmail from "./AuthenticationRegistrationEmail.vue";
+// import { computed, ref, reactive } from "vue";
+
+// // Import your components here
+// import InputEmail from "./AuthenticationRegistrationEmail.vue";
 
 const currentStep = ref(1);
 
