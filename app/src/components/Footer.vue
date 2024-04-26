@@ -98,7 +98,7 @@
       <hr />
       <div class="grid grid-cols-1 justify-center items-center md:grid md:grid-cols-2 md:justify-between md:items-center mx-5 py-5">
         <!-- bottom_left part -->
-        <div class="flex justify-center items-center gap-24 text-gray-500">
+        <div class="flex justify-start items-start gap-24 text-gray-500 px-2">
           <p>Privacy Policy</p>
           <p>Terms of Use</p>
         </div>
