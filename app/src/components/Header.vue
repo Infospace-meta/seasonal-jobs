@@ -39,7 +39,7 @@
           </div>
         </router-link>
         <router-link
-          :to="{ name: 'home' }"
+          :to="{ name: 'about' }"
           active-class="active-link"
           class="text-lg text-gray-700 font-medium hover:text-cyan-600"
           @click="toggleMenu"
@@ -50,7 +50,7 @@
           </div>
         </router-link>
         <router-link
-          :to="{ name: 'home' }"
+          :to="{ name: 'contact' }"
           active-class="active-link"
           class="text-lg text-gray-700 font-medium hover:text-cyan-600"
           @click="toggleMenu"
@@ -61,7 +61,7 @@
           </div>
         </router-link>
         <router-link
-          :to="{ name: 'home' }"
+          :to="{ name: 'register' }"
           active-class="active-link"
           class="text-lg text-gray-700 font-medium hover:text-cyan-600"
           @click="toggleMenu"
