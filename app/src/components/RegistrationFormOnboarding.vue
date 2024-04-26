@@ -45,10 +45,10 @@
 </template>
 
 <script setup>
-import { computed, ref, reactive } from "vue";
+// import { computed, ref, reactive } from "vue";
 
-// Import your components here
-import InputEmail from "./AuthenticationRegistrationEmail.vue";
+// // Import your components here
+// import InputEmail from "./AuthenticationRegistrationEmail.vue";
 
 const currentStep = ref(1);
 
