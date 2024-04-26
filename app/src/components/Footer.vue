@@ -1,40 +1,45 @@
 <template>
   <section class="bg-gray-50">
-    <div class="max-w-7xl mx-auto py-5">
+    <div class="md:max-w-xl lg:max-w-7xl mx-auto py-5">
       <!-- <div class="flex flex-col justify-center items-center space-y-10 py-10 sm:flex sm:flex-row sm:justify-between sm:items-center sm:py-14 mx-5"> -->
       <div
-        class="grid grid-cols-1 justify-center items-center space-y-10 py-10 md:grid md:grid-cols-3 md:justify-between sm:items-center sm:py-14 mx-5"
+        class="grid grid-cols-1 justify-center items-center space-y-10 py-10 md:grid md:grid-cols-1 md:justify-between md:items-center lg:grid lg:grid-cols-3 lg:justify-between lg:items-center sm:py-14 mx-1"
       >
         <!-- seasonaljobs logo -->
-        <div class="ml-24 sm:ml-0">
-          <router-link to="#">
+        <div class="flex justify-start items-start">
+          <router-link to="/" class="flex justify-center items-center ">
             <img
               src="../assets/kenya-removebg.png"
               alt="seasonaljobs"
-              class="h-1/2 w-1/2"
+              class="h-1/3 w-1/3 "
             />
+            <div class="flex justify-center items-center space-x-2 font-serif">
+              <p class="text-2xl text-red-600 font-bold">"Bring</p>
+              <p class="text-2xl font-bold">it</p>
+              <p class="text-2xl text-green-600 font-bold">Home!"</p>
+            </div>
           </router-link>
         </div>
         <!-- names of sections -->
-        <div>
-          <ul class="flex justify-center items-center gap-5">
+        <div class="" >
+          <ul class="flex justify-center items-center gap-5 ">
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">Home</router-link>
+              <router-link to="/">Home</router-link>
             </li>
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">About</router-link>
+              <router-link to="/about">About</router-link>
             </li>
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">Contact</router-link>
+              <router-link to="/contact">Contact</router-link>
             </li>
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">Register</router-link>
+              <router-link to="/register">Register</router-link>
             </li>
           </ul>
         </div>
         <!-- social icons -->
         <div
-          class="flex justify-center items-center md:flex md:justify-end md:items-end gap-3"
+          class="flex justify-center items-center md:flex md:justify-center md:items-center lg:flex lg:justify-end lg:items-end gap-3"
         >
           <!-- e-mail -->
           <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
@@ -108,8 +113,9 @@
         </div>
       </div>
       <hr />
+      <!-- bottom part -->
       <div
-        class="grid grid-cols-1 justify-center items-center md:grid md:grid-cols-2 md:justify-between md:items-center mx-5 py-5 space-y-3"
+        class="grid grid-cols-1 justify-center items-center md:grid md:grid-cols-1 md:justify-between md:items-center lg:grid lg:grid-cols-2 lg:justify-between lg:items-center mx-5 py-5 space-y-3"
       >
         <!-- bottom_left part -->
         <div
