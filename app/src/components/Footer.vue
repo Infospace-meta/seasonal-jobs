@@ -7,7 +7,7 @@
       >
         <!-- seasonaljobs logo -->
         <div class="ml-24 sm:ml-0 flex justify-start items-start">
-          <router-link to="#" class="flex justify-center items-center">
+          <router-link to="/" class="flex justify-center items-center">
             <img
               src="../assets/kenya-removebg.png"
               alt="seasonaljobs"
@@ -24,16 +24,16 @@
         <div>
           <ul class="flex justify-center items-center gap-5">
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">Home</router-link>
+              <router-link to="/">Home</router-link>
             </li>
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">About</router-link>
+              <router-link to="/about">About</router-link>
             </li>
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">Contact</router-link>
+              <router-link to="/contact">Contact</router-link>
             </li>
             <li class="text-gray-500 hover:text-green-950 hover:pb-2">
-              <router-link to="">Register</router-link>
+              <router-link to="/register">Register</router-link>
             </li>
           </ul>
         </div>
