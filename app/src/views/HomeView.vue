@@ -1,9 +1,9 @@
 <template>
-  <div class="text-red-700">Home</div>
-  <AboutHeader />
+  <div>
+    <Hero />
+  </div>
 </template>
 
-
 <script setup>
-import AboutHeader from '../components/AboutHeader.vue';
+import Hero from "../components/Hero.vue";
 </script>

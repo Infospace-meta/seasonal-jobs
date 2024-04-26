@@ -1,6 +1,6 @@
 import HomeView from "./HomeView.vue";
-import DetailsView from "./DetailsView.vue";
-import LoginView from "./LoginView.vue";
-import PostsView from "./PostsView.vue";
+import AboutView from "./AboutView.vue";
+import ContactView from "./ContactView.vue";
+import RegisterView from "./RegisterView.vue";
 
-export { HomeView, DetailsView, LoginView, PostsView };
+export { HomeView, AboutView, ContactView, RegisterView };
