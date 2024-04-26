@@ -1,5 +1,9 @@
 <template>
-  <div class="text-red-700"></div>
+  <div>
+ <contact/>
+ </div>
 </template>
 
-<script setup></script>
+<script setup>
+import contact from '../components/contact.vue';
+</script>
