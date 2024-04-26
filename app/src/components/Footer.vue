@@ -1,14 +1,15 @@
 <template>
   <section class="bg-gray-50">
     <div class="max-w-7xl mx-auto py-5">
-      <div class="flex justify-between items-center py-14 mx-5">
+      <!-- <div class="flex flex-col justify-center items-center space-y-10 py-10 sm:flex sm:flex-row sm:justify-between sm:items-center sm:py-14 mx-5"> -->
+      <div class="grid grid-cols-1 justify-center items-center space-y-10 py-10 md:grid md:grid-cols-3 md:justify-between sm:items-center sm:py-14 mx-5">
         <!-- seasonaljobs logo -->
-        <div class="">
+        <div class="ml-24 sm:ml-0">
           <router-link to="#">
           <img
             src="../assets/images/seasonal_logo.png"
             alt="seasonaljobs"
-            class="h-3/4 w-3/4"
+            class="h-1/2 w-1/2"
           />
         </router-link>
         </div>
@@ -22,7 +23,7 @@
           </ul>
         </div>
         <!-- social icons -->
-        <div class="flex justify-center items-center gap-3">
+        <div class="flex justify-center items-center md:flex md:justify-end md:items-end gap-3">
           <!-- e-mail -->
           <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
             <svg
@@ -48,13 +49,16 @@
             width="16"
             height="16"
             fill="#2E7D32"
-            class="bi bi-telephone"
+            class="bi bi-telephone hover:block"
             viewBox="0 0 16 16"
           >
             <path
               d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"
             />
           </svg>
+          <div class="absolute bg-gray-300 hidden p-2 ">
+            <p class="text-white">+44 7399 413391</p>
+          </div>
           </div>
           <!-- location -->
           <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
@@ -92,7 +96,7 @@
         </div>
       </div>
       <hr />
-      <div class="flex justify-between items-center mx-5 py-5">
+      <div class="grid grid-cols-1 justify-center items-center md:grid md:grid-cols-2 md:justify-between md:items-center mx-5 py-5">
         <!-- bottom_left part -->
         <div class="flex justify-center items-center gap-24 text-gray-500">
           <p>Privacy Policy</p>
