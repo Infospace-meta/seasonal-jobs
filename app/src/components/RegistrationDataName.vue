@@ -1,7 +1,7 @@
 <template>
-  <div class="p-4 mx-auto max-w-5xl">
-    <p class="text-2xl py-10 font-semibold text-gray-900">
-      Fill in the Registration Form
+  <div class="p-4 mx-auto max-w-5xl rounded-xl shadow-2xl bg-white lg:px-10">
+    <p class="text-2xl py-10 font-bold text-center text-gray-900">
+      Register Now
     </p>
     <div>
       <form action="">
@@ -108,6 +108,14 @@
           class="w-full md:w-[350px] border border-gray-400 p-2 rounded-md"
         /> -->
       </form>
+    </div>
+    <div class="flex justify-end py-5">
+      <button
+        class="text-white bg-green-600 px-4 py-2 rounded-md"
+        @click="finishForm"
+      >
+        Accept
+      </button>
     </div>
   </div>
 </template>
