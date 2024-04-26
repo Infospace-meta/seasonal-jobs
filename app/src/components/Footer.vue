@@ -128,7 +128,7 @@
               width=""
               height=""
               fill="currentColor"
-              class="bi bi-c-circle h-3 w-3 mb-[5px]"
+              class="bi bi-c-circle h-3 w-3 lg:mb-[5px]"
               viewBox="0 0 16 16"
             >
               <path
