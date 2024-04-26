@@ -1,13 +1,13 @@
 <template>
   <div>
     <Hero />
-    <Cards/>
+    <HomeRegistrationProcess/>
     <abouthome/>
   </div>
 </template>
 
 <script setup>
 import Hero from "../components/Hero.vue";
-import Cards from "../components/Cards.vue";
+import HomeRegistrationProcess from "../components/HomeRegistrationProcess.vue";
 import abouthome from "../components/abouthome.vue";
 </script>
