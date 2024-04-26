@@ -17,17 +17,16 @@
       <nav
         :class="{ hidden: close, 'sm:flex': open }"
         id="nav-content"
-        class="container bg-white col-span-4 max-lg:top-14 left-0 z-20 absolute lg:relative max-lg:flex-col lg:flex lg:justify-center lg:items-end max-lg:h-screen  max-w-6xl max-lg:border-r max-lg:shadow-2xl"
+        class="container bg-white col-span-4 max-lg:top-14 left-0 z-20 absolute lg:relative max-lg:flex-col lg:flex lg:justify-center lg:items-end max-lg:h-screen max-w-6xl max-lg:border-r max-lg:shadow-2xl"
       >
-        <div class="flex flex-row-reverse justify-between lg:hidden">
+        <!-- <div class="flex flex-row-reverse justify-between lg:hidden">
           <h1
             class="text-3xl px-5 text-gray-800 hover:text-indigo-700"
             @click="toggleMenu"
           >
-            <!-- Display hamburger icon when menu is closed, and 'x' when menu is open -->
-            {{ close ? "☰" : "✘" }}
+          {{ close ? "☰" : "✘" }}
           </h1>
-        </div>
+        </div> -->
         <router-link
           :to="{ name: 'home' }"
           active-class="active-link"
@@ -88,7 +87,7 @@
           >
             <span
               class="font-medium text-white bg-green-700 py-1 px-3 rounded-2xl"
-              >Register</span
+              >Register now</span
             >
           </div>
         </router-link>
