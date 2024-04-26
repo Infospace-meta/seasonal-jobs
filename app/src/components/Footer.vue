@@ -9,7 +9,7 @@
         <div class="ml-24 sm:ml-0">
           <router-link to="#">
             <img
-              src="../assets/images/seasonal_logo.png"
+              src="../assets/kenya-removebg.png"
               alt="seasonaljobs"
               class="h-1/2 w-1/2"
             />
