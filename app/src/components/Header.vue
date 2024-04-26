@@ -2,7 +2,7 @@
   <header class="h-14 lg:h-28 fixed w-full top-0 bg-white z-20">
     <div class="grid grid-cols-8 lg:grid-cols-10 mx-auto max-w-7xl h-full">
       <div
-        class="col-span-5 lg:col-span-3 flex justify-center items-center gap-6"
+        class="col-span-5 lg:col-span-2 flex justify-center items-center gap-6"
       >
         <h1
           class="text-2xl p-1 mt-1 text-gray-900 hover:text-indigo-700 lg:hidden"
@@ -17,7 +17,7 @@
       <nav
         :class="{ hidden: close, 'sm:flex': open }"
         id="nav-content"
-        class="container bg-white col-span-4 max-lg:top-14 left-0 z-20 absolute lg:relative max-lg:flex-col lg:flex lg:justify-center lg:items-end max-lg:h-screen max-w-6xl max-lg:border-r max-lg:shadow-2xl"
+        class="container bg-white col-span-6 max-lg:top-14 left-0 z-20 absolute lg:relative max-lg:flex-col lg:flex lg:justify-center lg:items-end max-lg:h-screen max-w-6xl max-lg:border-r max-lg:shadow-2xl"
       >
         <!-- <div class="flex flex-row-reverse justify-between lg:hidden">
           <h1
@@ -72,7 +72,7 @@
           </div>
         </router-link>
       </nav>
-      <div class="col-span-3 lg:col-span-3 flex justify-center items-center">
+      <div class="col-span-3 lg:col-span-2 flex justify-center items-center">
         <img
           class="max-lg:hidden md:h-20 h-12"
           src="../assets/images/youth_logo.png"
