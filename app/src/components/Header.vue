@@ -1,13 +1,18 @@
 <template>
   <header class="h-14 lg:h-28 fixed w-full top-0 bg-white z-20">
     <div class="grid grid-cols-8 h-full">
-      <div class="col-span-5 lg:col-span-2 bg-red-500">
+      <div
+        class="col-span-5 lg:col-span-2 flex justify-center items-center gap-6"
+      >
         <h1
           class="text-2xl p-1 mt-1 text-gray-900 hover:text-indigo-700 lg:hidden"
           @click="toggleMenu"
         >
           {{ close ? "☰" : "✘" }}
         </h1>
+        <router-link to="/" class="">
+          <img class="md:h-12 h-10" src="../assets/images/seasonal_logo.png" />
+        </router-link>
       </div>
       <nav
         :class="{ hidden: close, 'sm:flex': open }"
@@ -24,7 +29,9 @@
           </h1>
         </div>
       </nav>
-      <div class="col-span-3 lg:col-span-2 bg-blue-500"></div>
+      <div class="col-span-3 lg:col-span-2 flex justify-center items-center gap-2">
+        <img class="md:h-20 h-12" src="../assets/images/youth_logo.png" />
+      </div>
     </div>
   </header>
 </template>
