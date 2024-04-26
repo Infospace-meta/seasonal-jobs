@@ -56,14 +56,14 @@ import RegistrationDataName from "../components/RegistrationDataName.vue";
 const currentStep = ref(1);
 
 // Form data
-const formData = ref({
-  email: "",
-  firstName: "",
-  secondName: "",
-  phoneNumber: "",
-  password: "",
-  confirmPassword: "", // Added confirmPassword field
-});
+// const formData = ref({
+//   email: "",
+//   firstName: "",
+//   secondName: "",
+//   phoneNumber: "",
+//   password: "",
+//   confirmPassword: "", // Added confirmPassword field
+// });
 
 const nextStep = () => {
   if (currentStep.value < 1) {
