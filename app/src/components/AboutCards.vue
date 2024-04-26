@@ -1,9 +1,9 @@
 <template>
 
-    <section class="divide-solid divide-y py-10 max-w-7xl mx-auto">
-    <div class="w-full bg-transparent flex flex-col justify-between  mt-10 items-center md:flex-row">
-        <div class="p-3 w-full mt-10 md:w-1/2">
-            <h1 class="text-2xl left mb-10">Seasonal Jobs</h1>
+    <section class="divide-solid divide-y py-10 max-w-6xl mx-auto">
+    <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
+        <div class="p-3 w-full md:w-5/12">
+            <h1 class="text-2xl left mb-5">Seasonal Jobs</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
                  temporibus, molestias odit velit, 
@@ -23,7 +23,7 @@
 
         </div>
         
-        <div class="w-1/3 h-96 bg-slate-400 rounded-md"></div>
+        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
 
 
 
@@ -32,12 +32,12 @@
 
 
 
-    <div class="w-full bg-transparent flex justify-center gap-52 my-10 items-center">
+    <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
         
-        <div class="w-1/3 h-96 bg-slate-400 rounded-md"></div>
+        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
 
 
-        <div class="w-1/3 mt-10">
+        <div class="w-5/12 mt-10">
             <h1 class="text-2xl left pb-5">Bring It Home</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
@@ -59,9 +59,9 @@
     </div>
 
 
-    <div class="w-full bg-transparent flex justify-center gap-52 my-10 items-center">
-        <div class="w-1/3 mt-10">
-            <h1 class="text-2xl left mb-10">Bring It Home</h1>
+    <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
+        <div class="w-5/12">
+            <h1 class="text-2xl left mb-5 ">Bring It Home</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
                  temporibus, molestias odit velit, 
@@ -81,7 +81,7 @@
 
         </div>
         
-        <div class="w-1/3 h-96 bg-slate-400 rounded-md"></div>
+        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
 
 
 
@@ -89,12 +89,12 @@
     </div>
 
 
-    <div class="w-full bg-transparent flex justify-center gap-52 my-10 items-center">
+    <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
         
-        <div class="w-1/3 h-96 bg-slate-400 rounded-md"></div>
+        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
 
 
-        <div class="w-1/3 mt-10">
+        <div class="w-5/12  mt-10">
             <h1 class="text-2xl left mb-5">Youthfund Partnership</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
@@ -104,10 +104,7 @@
                   Est perspiciatis commodi quia, fuga aperiam,
                    exercitationem libero illum placeat porro error labore suscipit ipsa,
                     molestiae beatae quae quam quibusdam. Laudantium, maiores.
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                     Corporis voluptates, voluptate animi, 
-                     necessitatibus sapiente fugiat vel placeat amet harum itaque maiores ipsam tempore eaque commodi. 
-                     Laudantium possimus odit molestiae repellat.
+                    
                 </p>
 
 
