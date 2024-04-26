@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <div class="mx-auto max-w-6xl ">
     <div
-      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 "
+      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 justify-center"
     >
-      <div class="mx-auto lg:col-span-7 ">
+      <div class="mx-auto lg:col-span-7">
         <h1
-          class="max-w-4xl mt-36 text-4xl font-medium  tracking-tight leading-none md:text-5xl xl:text-6xl text-center lg:text-start"
+          class="max-w-4xl mt-36 text-2xl text-gray-950 font-medium  tracking-tight leading-none md:text-5xl xl:text-5xl text-center lg:text-start"
         >
           Earn Up-to to
           <span class="text-green-700"> 
