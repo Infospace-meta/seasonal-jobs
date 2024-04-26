@@ -10,7 +10,19 @@ const routes = [
 ];
 
 /**Initialize here */
-const router = createRouter({ history: createWebHistory(), routes });
+const router = createRouter({
+  history: createWebHistory(),
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return { top: 0 };
+    }
+  },
+  routes
+})
+
+
 
 // router.beforeEach(async (to) => {
 //   // redirect to login page if not logged in and trying to access a restricted page
