@@ -61,6 +61,17 @@
             <span class="text-lg font-medium text-gray-700">Contact Us</span>
           </div>
         </router-link>
+        <router-link
+          :to="{ name: 'home' }"
+          active-class="active-link"
+          class="text-lg text-gray-700 font-medium hover:text-cyan-600"
+          @click="toggleMenu"
+          ><div
+            class="inline-flex justify-center max-lg:w-full lg:p-5 pt-5 rounded-md"
+          >
+            <span class="text-lg font-medium text-green-700">Register</span>
+          </div>
+        </router-link>
       </nav>
       <div class="col-span-3 lg:col-span-3 flex justify-center items-center">
         <img class="md:h-20 h-12" src="../assets/images/youth_logo.png" />
