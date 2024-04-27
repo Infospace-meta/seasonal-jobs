@@ -49,10 +49,14 @@
       </div> -->
       <hr />
       <div
-        class="grid grid-cols-1 justify-center items-center md:grid md:grid-cols-3 md:justify-center md:items-center py-10 bg-gray-300 px-5 space-y-5"
+        class="grid grid-cols-1 justify-center items-center lg:grid lg:grid-cols-3 lg:justify-center lg:items-center bg-gray-300 px-5 space-y-5 gap-10 py-10"
       >
         <!-- social icons -->
-        <div class=" flex flex-col justify-center items-center ">
+        <div class=" flex flex-col justify-center items-center space-y-4">
+          <div class=" h-1/2 w-1/2 ">
+          <img src="../assets/images/seasonal_logo.png" alt="seasonal_jobs" />
+        </div>
+        <div>
           <p
             class="text-gray-500 flex justify-center items-center py-2 lg:justify-end lg:items-end px-2"
           >
@@ -129,43 +133,45 @@
                   d="M13.601 2.326A7.85 7.85 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.9 7.9 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.9 7.9 0 0 0 13.6 2.326zM7.994 14.521a6.6 6.6 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.56 6.56 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592m3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.73.73 0 0 0-.529.247c-.182.198-.691.677-.691 1.654s.71 1.916.81 2.049c.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232"
                 />
               </svg>
+        </div>
+         
             </div>
           </div>
         </div>
-        <div class="flex flex-col justify-center items-center md:flex md:flex-col md:justify-start md:items-start space-y-3">
+        <div class="flex flex-col justify-center items-center lg:grid lg:grid-cols-1 lg:justify-content-start lg:place-content-start space-y-3">
           <h1 class="text-lg font-semibold text-gray-900"> <router-link to="/about">About</router-link> </h1>
-          <ul class="flex flex-col justify-center items-center md:flex md:flex-col md:justify-start md:items-start space-y-2">
+          <ul class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2">
             <li class="hover:underline"><router-link to="#">Mission</router-link></li>
             <li class="hover:underline"><router-link to="#">Vision</router-link></li>
             <li class="hover:underline"><router-link to="#">Help</router-link></li>
             <li class="hover:underline"><router-link to="#">Ask a question</router-link></li>
           </ul>
         </div>
-        <div class="flex flex-col justify-center items-center md:flex md:flex-col md:justify-start md:items-start space-y-3">
+        <div class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-3">
           <h1 class="text-lg font-semibold text-gray-900 -left-5"> <router-link to="/register"> Register</router-link></h1>
-          <ul class="flex flex-col justify-center items-center md:flex md:flex-col md:justify-start md:items-start space-y-2">
+          <ul class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2">
             <li class="hover:underline"><router-link to="#">lorem</router-link></li>
             <li class="hover:underline"><router-link to="#">Ipsum</router-link></li>
             <li class="hover:underline"><router-link to="#">Clomun</router-link></li>
-            <li class="hover:underline"><router-link to="">Veliaranto</router-link></li>
+            <li class="hover:underline"><router-link to="#">Veliaranto</router-link></li>
           </ul>
         </div>
       </div>
 
       <div
-        class="grid cols-1 justify-center items-center sm:grid sm:grid-cols-3 sm:justify-center sm:items-center"
+        class="grid cols-1 justify-center items-center lg:grid lg:grid-cols-3 lg:justify-content-center lg:place-content-center px-5 gap-10 py-10"
       >
-        <div class="mx-12">
+        <div class="">
           <img src="../assets/images/seasonal_logo.png" alt="seasonal_jobs" />
         </div>
         <div>
-          <p class="">
+          <p class="place">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ipsa
             laborum numquam possimus, dignissimos illum, dolorum debitis eaque
             libero facilis natus, aliquam minima? Reiciendis, doloremque.
           </p>
         </div>
-        <div>
+        <div class="place-self-center">
           <img
             src="../assets/images/youth_logo.png"
             class="h-48 w-48"
