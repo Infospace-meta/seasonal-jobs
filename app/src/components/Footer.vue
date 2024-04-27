@@ -158,7 +158,7 @@
         </div>
       </div>
 
-      <div
+      <!-- <div
         class="grid cols-1 justify-center items-center lg:grid lg:grid-cols-3 lg:justify-content-center lg:place-content-center px-5 gap-10 py-10"
       >
         <div class="">
@@ -178,7 +178,7 @@
             alt="youthfund"
           />
         </div>
-      </div>
+      </div> -->
 
       <hr />
       <!-- bottom part -->
