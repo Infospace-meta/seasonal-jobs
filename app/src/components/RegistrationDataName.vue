@@ -3,18 +3,22 @@
     class="container p-4 mx-auto max-w-5xl rounded-2xl shadow-2xl lg:px-10 bg-white"
     style="background-image: none"
   >
+    <!-- Form title -->
     <p class="text-3xl py-10 font-bold text-center text-gray-900">
       Register Now
     </p>
+    <!-- The form div -->
     <div class="">
-      <form action="">
+      <form @submit.prevent="handleSubmit">
+        <!-- First, last name and   -->
         <div class="grid lg:grid-cols-3 gap-4 py-2">
           <div class="col-span-1">
             <p class="py-2 text-lg">First Name</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.firstName"
+              name="firstName"
+              id="firstName"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -22,8 +26,9 @@
             <p class="py-2 text-lg">Last Name</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.lastName"
+              name="lastName"
+              id="lastName"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -31,8 +36,9 @@
             <p class="py-2 text-lg">E-mail</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.email"
+              name="email"
+              id="email"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -42,8 +48,9 @@
             <p class="py-2 text-lg">Confirm Email</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.confirmEmail"
+              name="confirmEmail"
+              id="confirmEmail"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -51,8 +58,9 @@
             <p class="py-2 text-lg">Phone Number(Mpesa Active)</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.phoneNumber"
+              name="phoneNumber"
+              id="phoneNumber"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -60,8 +68,9 @@
             <p class="py-2 text-lg">Nationality</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.nationality"
+              name="nationality"
+              id="nationality"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -71,8 +80,9 @@
             <p class="py-2 text-lg">National ID No</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.idNumber"
+              name="idNumber"
+              id="idNumber"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -80,8 +90,9 @@
             <p class="py-2 text-lg">Passport No(if Applicable)</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.passportNumber"
+              name="passportNumber"
+              id="passportNumber"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -89,8 +100,9 @@
             <p class="py-2 text-lg">Passport Expiry Date (if applicable)</p>
             <input
               type="text"
-              name="FirstName"
-              id="FirstName"
+              v-model="formData.passportExpiryDate"
+              name="passportExpiryDate"
+              id="passportExpiryDate"
               class="w-full border border-gray-400 p-2 rounded-md"
             />
           </div>
@@ -100,7 +112,7 @@
             <p class="py-2 text-lg">Gender</p>
             <div class="flex flex-col">
               <div class="flex gap-3">
-                <input
+                <input 
                   type="radio"
                   id="male"
                   name="gender"
