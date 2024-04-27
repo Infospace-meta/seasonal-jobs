@@ -42,9 +42,9 @@
                         </svg>
 
 
-                            <h3 class="mt-8 text-3xl font-semibold text-black ">Phone
+                            <h3 class="mt-8 text-3xl font-semibold text-black group-hover:text-white">Phone
                             </h3>
-                            <p class="mt-4 text-base text-black group-hover:text-black">+25496309956<br>
+                            <p class="mt-4 text-base text-black group-hover:text-white">+25496309956<br>
                                 +254787654321
                             </p>
                         </div>
@@ -61,9 +61,9 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
                         </svg>
 
-                            <h3 class="mt-8 text-3xl font-semibold text-black">Location
+                            <h3 class="mt-8 text-3xl font-semibold text-black group-hover:text-white">Location
                         </h3>
-                            <p class="mt-4 text-base text-black group-hover:text-black">United Kingdom<br>
+                            <p class="mt-4 text-base text-black group-hover:text-white">United Kingdom<br>
                                 City Road,
                                 London</p>
                         </div>
