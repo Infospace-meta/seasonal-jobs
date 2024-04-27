@@ -1,7 +1,9 @@
 <template>
-  <div class="bg-gray-100 py-10 px-3 border">
-    <RegistrationDataName />
-    <RegistrationFormOnboarding />
+  <div class="bg-hero bg-no-repeat bg-cover bg-center bg-fixed">
+    <div class="opacity-90 bg-white py-10 px-3">
+      <RegistrationDataName />
+      <RegistrationFormOnboarding />
+    </div>
   </div>
 </template>
 
