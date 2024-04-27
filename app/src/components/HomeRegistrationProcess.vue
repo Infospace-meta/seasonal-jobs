@@ -14,13 +14,13 @@
       <!-- End Text -->
 
       <!-- Timeline: Register,Apply,Receive,Travel,Work,Bring It Home -->
-      <div class="lg:col-span-2 max-h-96 overflow-auto">
+      <div
+        class="lg:col-span-2 max-h-[400px] overflow-auto "
+      >
         <div class="mx-auto w-full h-full">
-          <div class="relative p-10 overflow-auto h-full">
+          <div class="relative p-10 overflow-auto h-full [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:rounded-full [&::-webkit-scrollbar-track]:bg-gray-100 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-gray-300">
             <!-- Line -->
-            <div
-              class="absolute border border-gray-300 sm:[left:50%]"
-            ></div>
+            <div class="absolute border border-gray-300 sm:[left:50%]"></div>
             <!-- Register item -->
             <div
               class="mb-8 flex justify-between items-center w-full right-timeline"
@@ -36,7 +36,8 @@
               >
                 <h3 class="mb-3 font-bold text-gray-800 text-xl">Register</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+                  exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
@@ -56,7 +57,8 @@
               >
                 <h3 class="mb-3 font-bold text-xl">Apply</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+                  exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
@@ -76,7 +78,8 @@
               >
                 <h3 class="mb-3 font-bold text-gray-800 text-xl">Receive</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+                  exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
@@ -96,7 +99,8 @@
               >
                 <h3 class="mb-3 font-bold text-xl">Travel</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+                  exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
@@ -116,7 +120,8 @@
               >
                 <h3 class="mb-3 font-bold text-gray-800 text-xl">Work</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+                  exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
@@ -136,7 +141,8 @@
               >
                 <h3 class="mb-3 font-bold text-xl">Bring It Home</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+                  exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
