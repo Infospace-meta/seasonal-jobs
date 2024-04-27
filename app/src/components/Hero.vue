@@ -25,14 +25,14 @@
         <div>
           <!-- this is the text for large screens -->
           <h1
-            class="max-lg:hidden py-7 max-w-3xl xl:max-w-7xl text-5xl xl:text-7xl text-gray-950 font-normal xl:leading-relaxed lg:leading-normal"
+            class="max-lg:hidden py-7 mx-auto max-w-3xl xl:max-w-7xl text-5xl xl:text-7xl text-gray-950 font-normal xl:leading-relaxed lg:leading-normal"
           >
             Earn Up-to to
             <span class="text-green-700"> KSH 80,000 </span>($ 500 - $ 800)
             <span class="text-green-700 italic"> per week </span>
           </h1>
           <h1
-            class="max-lg:hidden font-light text-black text-lg xl:text-2xl max-w-md xl:max-w-xl xl:translate-x-[520px] xl:-translate-y-28 lg:translate-x-[320px] lg:-translate-y-20"
+            class="max-lg:hidden font-light text-black text-lg xl:text-2xl max-w-md xl:max-w-xl xl:translate-x-[520px] xl:-translate-y-28 lg:translate-x-[520px] lg:-translate-y-20"
           >
             The UK is seeking short-time labour to fill their Seasonal worker
             scheme for 2024 in the agricultural sector
