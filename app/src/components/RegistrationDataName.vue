@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container p-4 mx-auto max-w-5xl rounded-xl shadow-2xl lg:px-10 bg-white opacity-100"
+    class="container p-4 mx-auto max-w-5xl rounded-xl shadow-2xl lg:px-10 bg-white border border-gray-100 opacity-100"
   >
     <p class="text-2xl py-10 font-bold text-center text-gray-900">
       Register Now

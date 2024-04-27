@@ -2,7 +2,7 @@
   <header
     class="h-14 lg:h-28 fixed w-full top-0 inset-0 z-20 bg-hero bg-no-repeat bg-cover bg-center bg-fixed"
   >
-    <div class="w-full h-full opacity-95 bg-white shadow-2xl shadow-white">
+    <div class="w-full h-full lg:opacity-95 bg-white shadow-2xl shadow-white">
       <div class="grid grid-cols-8 lg:grid-cols-10 mx-auto max-w-7xl h-full">
         <div
           class="col-span-5 lg:col-span-2 flex justify-center items-center gap-6"
