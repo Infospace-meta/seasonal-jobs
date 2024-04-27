@@ -6,7 +6,7 @@
     <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
         
         <!-- Seasonal job text -->
-        <div class="p-5 w-full md:w-5/12">
+        <div class="px-5 py-10 w-full md:w-5/12">
             <h1 class="text-2xl left mb-5 hover:underline  md:text-4xl ">Seasonal Jobs</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
@@ -29,7 +29,7 @@
         
         <!-- seasonal job image -->
         <div class="w-full px-5 h-72 rounded-md md:w-5/12">
-            <img src="../assets/Farm.png" class="w-full h-full transition hover:scale-125">
+            <img src="../assets/images/seasonal_logo.png" class="w-11/12 h-full transition hover:scale-125">
         </div>
 
 
@@ -49,7 +49,7 @@
         </div>
         
         <!-- bring it home contect -->
-        <div class="w-full p-5 md:w-5/12"> 
+        <div class="w-full px-5 py-10 md:w-5/12"> 
             <h1 class="text-2xl left pb-5 hover:underline  md:text-4xl ">Bring It Home</h1>
             <p class="block">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
@@ -76,7 +76,7 @@
 
 
         <!-- Bring it home content -->
-        <div class="w-full p-5 md:w-5/12">
+        <div class="w-full px-5 py-10 md:w-5/12">
             <h1 class="text-2xl left mb-5 hover:underline  md:text-4xl ">Bring It Home</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
@@ -115,14 +115,14 @@
         <div class="w-full h-72 rounded-md md:w-5/12">
 
 
-            <img src="../assets/kenya_wbg.png" class="w-full h-full mx-5 transition hover:scale-125">
+            <img src="../assets/images/youth_logo.png" class="w-10/12 h-full mx-5 transition hover:scale-125">
 
 
 
         </div>
 
             <!-- Youthfund content -->
-        <div class="w-full p-5 md:w-5/12">
+        <div class="w-full px-5 py-10 md:w-5/12">
             <h1 class="text-2xl left mb-5 md:text-4xl hover:underline">Youthfund Partnership</h1>
             <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
