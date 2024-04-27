@@ -1,11 +1,12 @@
 <template>
   <div
-    class="container p-4 mx-auto max-w-5xl rounded-xl shadow-2xl lg:px-10 bg-white border border-gray-100 opacity-100"
+    class="container p-4 mx-auto max-w-5xl rounded-xl shadow-2xl lg:px-10 bg-white border border-gray-100"
+    style="background-image: none"
   >
     <p class="text-2xl py-10 font-bold text-center text-gray-900">
       Register Now
     </p>
-    <div>
+    <div class="">
       <form action="">
         <div class="grid lg:grid-cols-3 gap-4 py-2">
           <div class="col-span-1">

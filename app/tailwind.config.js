@@ -6,6 +6,7 @@ export default {
       backgroundImage: {
         'hero': "url('/src/assets/Farm.png')",
         'large-hero': "url('/src/assets/images/hero-lion.jpg')",
+        'form': "url('/src/assets/images/form-white.jpg')",
       },
     },
   },
