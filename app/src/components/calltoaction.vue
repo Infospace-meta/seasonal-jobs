@@ -1,5 +1,5 @@
 <template>
-  <section class="py-6 lg:py-12">
+  <section class="py-10 bg-large-hero bg-white opacity-95">
     <div
       class="relative bg-gradient-to-l from-gray-600 to-green-700 h-28 w-[370px] md:h-36 md:w-[600px] lg:h-48 lg:w-[1000px] mx-auto rounded-xl"
     >
