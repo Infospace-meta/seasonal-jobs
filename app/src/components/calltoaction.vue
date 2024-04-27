@@ -15,13 +15,13 @@
           <button
             class="bg-orange-400 px-1 py-1  sm:px-3 sm:py-3 rounded-full text-gray-700 text-sm "
           >
-            Take the Chance
+            Register now
           </button></router-link
         >
       </div>
       <div class="absolute left-4 bottom-1 sm:left-8 sm:bottom-2 lg:left-16 lg:bottom-7">
         <span class="text-white tracking-tight sm:tracking-normal"
-          >Get paid <strong>Ksh 80,000 Per Week</strong> working in a farm,<br />
+          >Get paid <strong>Ksh 80,000 Per Week</strong>,<br />
           then <strong>Invest</strong> back home.</span
         >
       </div>
