@@ -66,9 +66,9 @@
             />
           </div>
         </div>
-        <div class="grid lg:grid-cols-2 gap-4 py-2">
+        <div class="grid lg:grid-cols-3 gap-4 py-2">
           <div class="col-span-1">
-            <p class="py-2 text-lg">Nationality</p>
+            <p class="py-2 text-lg">National ID No</p>
             <input
               type="text"
               name="FirstName"
@@ -77,7 +77,16 @@
             />
           </div>
           <div class="col-span-1">
-            <p class="py-2 text-lg">ID Number</p>
+            <p class="py-2 text-lg">Passport No(if Applicable)</p>
+            <input
+              type="text"
+              name="FirstName"
+              id="FirstName"
+              class="w-full border border-gray-400 p-2 rounded-md"
+            />
+          </div>
+          <div class="col-span-1">
+            <p class="py-2 text-lg">Passport Expiry Date (if applicable)</p>
             <input
               type="text"
               name="FirstName"
