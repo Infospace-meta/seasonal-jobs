@@ -1,7 +1,7 @@
 <template>
-    <div class="h-96 w-6xl mr-auto bg-slate-400 flex justify-center items-center">
+    <div class="h-72 w-full rounded-md mt-24 mx-auto bg-slate-400 flex justify-center items-center md:max-w-6xl">
 
-        <h1 class="text-white text-4xl">About-Us</h1>
+        <h1 class="text-white text-5xl">About-Us</h1>
 
     </div>
 </template>

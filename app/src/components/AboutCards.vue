@@ -1,9 +1,9 @@
 <template>
 
-    <section class="divide-solid divide-y py-10 max-w-6xl mx-auto">
+    <section class="divide-solid divide-y py-5 max-w-6xl mx-auto">
     <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
-        <div class="p-3 w-full md:w-5/12">
-            <h1 class="text-2xl left mb-5">Seasonal Jobs</h1>
+        <div class="p-5 w-full md:w-5/12">
+            <h1 class="text-2xl left mb-5 hover:underline  md:text-4xl ">Seasonal Jobs</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
                  temporibus, molestias odit velit, 
@@ -23,7 +23,7 @@
 
         </div>
         
-        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
+        <div class="w-full px-5 h-72 bg-slate-400 rounded-md md:w-5/12"></div>
 
 
 
@@ -32,14 +32,14 @@
 
 
 
-    <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
+    <div class="w-full bg-transparent flex flex-col-reverse justify-between  py-10 items-center md:flex-row">
         
-        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
+        <div class="w-full h-72 bg-slate-400 rounded-md px-5 md:w-5/12"></div>
 
 
-        <div class="w-5/12 mt-10">
-            <h1 class="text-2xl left pb-5">Bring It Home</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+        <div class="w-full p-5 md:w-5/12">
+            <h1 class="text-2xl left pb-5 hover:underline  md:text-4xl ">Bring It Home</h1>
+            <p class="block">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
                  temporibus, molestias odit velit, 
                  illum excepturi ullam impedit nobis mollitia error quaerat recusandae pariatur!
@@ -60,8 +60,8 @@
 
 
     <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
-        <div class="w-5/12">
-            <h1 class="text-2xl left mb-5 ">Bring It Home</h1>
+        <div class="w-full p-5 md:w-5/12">
+            <h1 class="text-2xl left mb-5 hover:underline  md:text-4xl ">Bring It Home</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
                  temporibus, molestias odit velit, 
@@ -81,7 +81,7 @@
 
         </div>
         
-        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
+        <div class="w-full h-72 bg-slate-400 rounded-md md:w-5/12"></div>
 
 
 
@@ -89,14 +89,14 @@
     </div>
 
 
-    <div class="w-full bg-transparent flex flex-col justify-between  py-10 items-center md:flex-row">
+    <div class="w-full bg-transparent flex flex-col-reverse justify-between  py-10 items-center md:flex-row">
         
-        <div class="w-5/12 h-72 bg-slate-400 rounded-md"></div>
+        <div class="w-full h-72 bg-slate-400 rounded-md md:w-5/12"></div>
 
 
-        <div class="w-5/12  mt-10">
-            <h1 class="text-2xl left mb-5">Youthfund Partnership</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+        <div class="w-full md:w-5/12 my-5">
+            <h1 class="text-2xl left mb-5 md:text-4xl hover:underline">Youthfund Partnership</h1>
+            <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                 Optio fuga sint adipisci est repellat sed dicta,
                  temporibus, molestias odit velit, 
                  illum excepturi ullam impedit nobis mollitia error quaerat recusandae pariatur!
