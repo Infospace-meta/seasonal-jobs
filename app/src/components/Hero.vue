@@ -3,7 +3,7 @@
     aria-label="Site Footer"
     class="bg-hero bg-no-repeat bg-cover bg-center bg-fixed"
   >
-    <div class="relative inset-0 bg-white opacity-90 py-10">
+    <div class="opacity-80 py-10 bg-white">
       <div class="mx-auto max-w-6xl">
         <div
           class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 justify-center"
