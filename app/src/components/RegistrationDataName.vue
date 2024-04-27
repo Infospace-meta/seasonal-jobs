@@ -1,16 +1,16 @@
 <template>
   <div
-    class="container p-4 mx-auto max-w-5xl rounded-xl shadow-2xl lg:px-10 bg-white border border-gray-100"
+    class="container p-4 mx-auto max-w-5xl rounded-2xl shadow-2xl lg:px-10 bg-white"
     style="background-image: none"
   >
-    <p class="text-2xl py-10 font-bold text-center text-gray-900">
+    <p class="text-3xl py-10 font-bold text-center text-gray-900">
       Register Now
     </p>
     <div class="">
       <form action="">
         <div class="grid lg:grid-cols-3 gap-4 py-2">
           <div class="col-span-1">
-            <p class="p-2 text-lg">First Name</p>
+            <p class="py-2 text-lg">First Name</p>
             <input
               type="text"
               name="FirstName"
@@ -19,7 +19,7 @@
             />
           </div>
           <div class="col-span-1">
-            <p class="p-2 text-lg">Last Name</p>
+            <p class="py-2 text-lg">Last Name</p>
             <input
               type="text"
               name="FirstName"
@@ -28,7 +28,7 @@
             />
           </div>
           <div class="col-span-1">
-            <p class="p-2 text-lg">E-mail</p>
+            <p class="py-2 text-lg">E-mail</p>
             <input
               type="text"
               name="FirstName"
@@ -39,7 +39,7 @@
         </div>
         <div class="grid lg:grid-cols-3 gap-4 py-2">
           <div class="col-span-1">
-            <p class="p-2 text-lg">Confirm Email</p>
+            <p class="py-2 text-lg">Confirm Email</p>
             <input
               type="text"
               name="FirstName"
@@ -48,7 +48,7 @@
             />
           </div>
           <div class="col-span-1">
-            <p class="p-2 text-lg">Phone Number(Mpesa Active)</p>
+            <p class="py-2 text-lg">Phone Number(Mpesa Active)</p>
             <input
               type="text"
               name="FirstName"
@@ -57,7 +57,7 @@
             />
           </div>
           <div class="col-span-1">
-            <p class="p-2 text-lg">Nationality</p>
+            <p class="py-2 text-lg">Nationality</p>
             <input
               type="text"
               name="FirstName"
@@ -68,7 +68,7 @@
         </div>
         <div class="grid lg:grid-cols-2 gap-4 py-2">
           <div class="col-span-1">
-            <p class="p-2 text-lg">Nationality</p>
+            <p class="py-2 text-lg">Nationality</p>
             <input
               type="text"
               name="FirstName"
@@ -77,7 +77,7 @@
             />
           </div>
           <div class="col-span-1">
-            <p class="p-2 text-lg">ID Number</p>
+            <p class="py-2 text-lg">ID Number</p>
             <input
               type="text"
               name="FirstName"
