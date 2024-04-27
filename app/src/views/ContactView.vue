@@ -1,13 +1,11 @@
 <template>
-  <div>
- <contact/>
- </div>
- <div>
-   <faqs/>
- </div>
+  <div class="bg-white opacity-95">
+    <contact />
+    <faqs />
+  </div>
 </template>
 
 <script setup>
-import contact from '../components/contact.vue';
-import faqs  from '../components/faqs.vue';
+import contact from "../components/contact.vue";
+import faqs from "../components/faqs.vue";
 </script>

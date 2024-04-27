@@ -1,9 +1,17 @@
 <template>
-  <div>
-    <Hero />
-    <Calltoaction />
-    <HomeRegistrationProcess/>
-    <abouthome/>
+  <div class="relative">
+    <div class="inset-0 bg-white opacity-90">
+      <Hero />
+    </div>
+    <div
+      class="absolute z-10 px-2 flex flex-col justify-center w-full items-center"
+    >
+      <Calltoaction />
+    </div>
+    <div class="bg-white opacity-90 pt-64">
+      <HomeRegistrationProcess />
+      <abouthome />
+    </div>
   </div>
 </template>
 
