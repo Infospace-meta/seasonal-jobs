@@ -26,7 +26,7 @@
         >
       </div>
       <div
-        class="absolute right-0 -top-4 sm:top-5 flex justify-end items-center space-x-2 font-serif lg:px-10 lg:pt-10 sm:px-5 sm:pt-5 px-5 pt-5"
+        class="absolute right-0 -top-4 sm:-top-2 lg:-top-3 flex justify-end items-center space-x-2 font-serif lg:px-10 lg:pt-10 sm:px-5 sm:pt-5 px-5 pt-5"
       >
         <p class="text-md md:text-2xl lg:text-4xl text-white font-bold">
           "Bring
@@ -35,6 +35,9 @@
         <p class="text-md md:text-2xl lg:text-4xl text-white font-bold">
           Home!"
         </p>
+      </div>
+      <div class="hidden sm:flex sm:absolute sm:right-20 sm:bottom-1 lg:bottom-5 lg:right-[150px]  ">
+        <img src="../assets/images/kenya.png" class="h-24 w-24" alt="kenya">
       </div>
     </div>
   </section>
