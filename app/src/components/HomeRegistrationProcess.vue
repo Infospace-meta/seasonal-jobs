@@ -2,8 +2,8 @@
   <section class="px-4 py-8 sm:py-20">
     <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-8">
       <!-- Text -->
-      <div class="flex flex-col md:px-0">
-        <h1 class="font-semibold text-2xl md:text-5xl mb-5">
+      <div class="flex flex-col md:px-0 stick top-10">
+        <h1 class="font-semibold text-2xl md:text-3xl mb-5">
           Application Process
         </h1>
         <p>
@@ -20,7 +20,7 @@
             <div
               class="absolute border-opacity-20 border-gray-700 h-full border [left:50%]"
             ></div>
-            <!-- right timeline -->
+            <!-- Register item -->
             <div
               class="mb-8 flex justify-between items-center w-full right-timeline"
             >
@@ -34,17 +34,13 @@
                 class="order-1 rounded-2xl shadow-md w-5/12 px-6 py-4 border-2 border-green-700"
               >
                 <h3 class="mb-3 font-bold text-gray-800 text-xl">Register</h3>
-                <p class="text-sm tracking-wide text-gray-900 text-opacity-100">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                <p class="text-sm tracking-wide text-gray-900">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
 
-            <!-- left timeline -->
+            <!-- Apply item -->
             <div
               class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline"
             >
@@ -58,17 +54,13 @@
                 class="order-1 rounded-2xl shadow-xl w-5/12 px-6 py-4 border-2 border-green-700"
               >
                 <h3 class="mb-3 font-bold text-xl">Apply</h3>
-                <p class="text-sm leading-snug tracking-wide">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                <p class="text-sm tracking-wide text-gray-900">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
 
-            <!-- right timeline -->
+            <!-- Receive item -->
             <div
               class="mb-8 flex justify-between items-center w-full right-timeline"
             >
@@ -82,17 +74,13 @@
                 class="order-1 rounded-2xl shadow-xl w-5/12 px-6 py-4 border-2 border-green-700"
               >
                 <h3 class="mb-3 font-bold text-gray-800 text-xl">Receive</h3>
-                <p class="text-sm leading-snug tracking-wide text-gray-900">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                <p class="text-sm tracking-wide text-gray-900">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
 
-            <!-- left timeline -->
+            <!-- Travel item -->
             <div
               class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline"
             >
@@ -107,16 +95,12 @@
               >
                 <h3 class="mb-3 font-bold text-xl">Travel</h3>
                 <p class="text-sm tracking-wide text-gray-900">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
 
-            <!-- right timeline -->
+            <!-- Work item -->
             <div
               class="mb-8 flex justify-between items-center w-full right-timeline"
             >
@@ -130,17 +114,13 @@
                 class="order-1 rounded-2xl shadow-xl w-5/12 px-6 py-4 border-2 border-green-700"
               >
                 <h3 class="mb-3 font-bold text-gray-800 text-xl">Work</h3>
-                <p class="text-sm leading-snug tracking-wide text-gray-900">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                <p class="text-sm tracking-wide text-gray-900">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
 
-            <!-- left timeline -->
+            <!-- Bring It home item -->
             <div
               class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline"
             >
@@ -154,12 +134,8 @@
                 class="order-1 rounded-2xl shadow-xl w-5/12 px-6 py-4 border-2 border-green-700"
               >
                 <h3 class="mb-3 font-bold text-xl">Bring It Home</h3>
-                <p class="text-sm leading-snug tracking-wide text-gray-900">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                <p class="text-sm tracking-wide text-gray-900">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi exercitationem at veritatis sapiente.
                 </p>
               </div>
             </div>
