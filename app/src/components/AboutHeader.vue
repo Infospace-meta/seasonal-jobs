@@ -1,7 +1,8 @@
 <template>
-    <div class="h-72 w-full rounded-md mt-24 mx-auto bg-slate-400 flex justify-center items-center md:max-w-6xl">
+    <div class="h-72 bg-[url('../assets/backImages.jpg')] bg-center relative bg-no-repeat bg-cover w-full rounded-md mt-24 mx-auto flex justify-center items-center md:max-w-6xl">
 
-        <h1 class="text-white text-5xl">About-Us</h1>
+        <h1 class="text-white absolute  text-5xl">About-Us</h1>
+        <img src="../" alt="">
 
     </div>
 </template>
