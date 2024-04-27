@@ -25,7 +25,7 @@
 
             <!-- this is the text for large screens -->
             <h1
-              class="max-lg:hidden py-5 text-7xl text-gray-950 font-normal leading-relaxed"
+              class="max-lg:hidden py-5 max-w-7xl text-7xl text-gray-950 font-normal leading-relaxed"
             >
               Earn Up-to to
               <span class="text-green-700"> KSH 80,000 </span>($ 500 - $
@@ -45,6 +45,7 @@
                 Register Now
               </a>
             </div>
+
           </div>
           <!-- <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7 pt-4 mx-auto">
             <img src="@/assets/Farm.png" alt="" />
