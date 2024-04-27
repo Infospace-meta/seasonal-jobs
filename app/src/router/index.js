@@ -1,12 +1,12 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { HomeView, PostsView, DetailsView, LoginView } from "../views";
+import { HomeView, AboutView, ContactView, RegisterView } from "../views";
 import { useAuthStore } from "../store";
 
 const routes = [
   { path: "/", name: "home", component: HomeView },
-  { path: "/login", name: "login", component: LoginView },
-  { path: "/posts", name: "posts", component: PostsView },
-  { path: "/posts/:id", name: "details", component: DetailsView, props: true },
+  { path: "/about", name: "about", component: AboutView },
+  { path: "/contact", name: "contact", component: ContactView },
+  { path: "/register", name: "register", component: RegisterView },
 ];
 
 /**Initialize here */
