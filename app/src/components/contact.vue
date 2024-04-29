@@ -11,19 +11,19 @@
                     </div>
                     <p class="mt-4 text-3xl leading-relaxed text-black group-hover:text-black">Picking Up For a better Future.</p>
                 </div>
-                <div class="grid grid-cols-1 gap-2 mt-12 sm:grid-cols-3 lg:mt-20   ">
+                <div class="grid grid-cols-1 gap-2 mt-12 sm:grid-cols-3 lg:mt-20">
                     <a href="#"
-                        class="transition-all  duration-1000 bg-white hover:bg-black border  hover:shadow-xl m-2 p-4 relative  group  ">
+                        class="transition-all duration-1000 bg-white hover:bg-black border hover:shadow-xl m-2 p-4 relative group">
                         <div
-                            class=" absolute  bg-black/50 top-0 left-0 w-24 h-1   transition-all duration-200 group-hover:bg-black group-hover:w-1/2  ">
+                            class="absolute bg-black/50 top-0 left-0 w-24 h-1 transition-all duration-200 group-hover:bg-black group-hover:w-1/2">
                         </div>
-                        <div class="py-2 px-9 relative  ">
+                        <div class="py-2 px-9">
 
                           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 group-hover:fill-white">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
                             </svg>
 
-                            <h3 class="mt-8 text-3xl font-semibold  text-black group-hover:text-white">Email Address
+                            <h3 class="mt-8 text-3xl font-semibold text-black group-hover:text-white">Email Address
                             </h3>
                             <p class="mt-4 text-base text-black group-hover:text-white">info@seasonaljobsuk.com<br>
                                 contact@example.com
