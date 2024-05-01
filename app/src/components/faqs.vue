@@ -95,7 +95,7 @@
               class="flex items-center justify-between px-4 sm:px-8 py-3 font-medium hover:cursor-pointer"
             >
               <span class="font-semibold text-xl py-2">
-                Do you provide discounts?
+              What support services does the employer offer in case of emergencies or crises?
               </span>
               <span class="text-2xl">+</span>
             </summary>
