@@ -32,7 +32,7 @@
               class="flex items-center justify-between px-4 sm:px-8 py-3 font-medium hover:cursor-pointer"
             >
               <span class="font-semibold text-xl py-2">
-                How to create an account?
+                Can I terminate my contract during my working period?
               </span>
               <span class="text-2xl">+</span>
             </summary>
@@ -53,7 +53,7 @@
               class="flex items-center justify-between px-4 sm:px-8 py-3 font-medium hover:cursor-pointer"
             >
               <span class="font-semibold text-xl py-2">
-                Will I get an email notification?
+            	Is the registration fee refundable?
               </span>
               <span class="text-2xl">+</span>
             </summary>
@@ -74,7 +74,7 @@
               class="flex items-center justify-between px-4 sm:px-8 py-3 font-medium hover:cursor-pointer"
             >
               <span class="font-semibold text-xl py-2">
-                How can I make payment?
+              Are there any restrictions on foreign workers in this country?
               </span>
               <span class="text-2xl">+</span>
             </summary>
@@ -116,7 +116,7 @@
               class="flex items-center justify-between px-4 sm:px-8 py-3 font-medium hover:cursor-pointer"
             >
               <span class="font-semibold text-xl py-2">
-                What am I getting as a Premium Member?
+              What is the cost of living in the new location?
               </span>
               <span class="text-2xl">+</span>
             </summary>
