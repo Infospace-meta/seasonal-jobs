@@ -100,7 +100,7 @@
               <span class="text-2xl">+</span>
             </summary>
 
-            <div class="m-4 p-4 rounded-3xl text-gray-500">
+            <div class="m-4 p-4 rounded-2xl text-gray-500">
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et
                 ipsum sapien. Vestibulum molestie porttitor augue vitae
