@@ -1,78 +1,71 @@
 <template>
 <section class="">
-    <div class="py-10 sm:py-16 block lg:py-24 relative bg-opacity-50  z-40 " >
+    <div class="py-10 sm:py-16 block lg:py-20 relative bg-opacity-50">
         <div
             class="relative mx-auto h-full px-4 pb-20 md:pb-0 sm:max-w-xl md:max-w-full md:px-24 lg:max-w-screen-xl lg:px-8">
         </div>
             <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 relative">
                 <div class="max-w-xl mx-auto text-center">
-                    <div class="inline-flex px-4 py-1.5 mx-auto rounded-full  ">
+                    <div class="inline-flex px-4 py-1.5 mx-auto rounded-full">
                         <p class="text-5xl font-semibold tracking-widest">Contact Us</p>
                     </div>
-                    <p class="mt-4 text-base leading-relaxed text-black group-hover:text-black">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit..</p>
+                    <p class="mt-4 text-3xl leading-relaxed text-black group-hover:text-black">Picking Up For a better Future.</p>
                 </div>
-                <div class="grid grid-cols-1 gap-2 mt-12 sm:grid-cols-3 lg:mt-20   ">
+                <div class="grid grid-cols-1 gap-2 mt-12 sm:grid-cols-3 lg:mt-20">
                     <a href="#"
-                        class="transition-all  duration-1000 bg-white hover:bg-black border  hover:shadow-xl m-2 p-4 relative z-40 group  ">
+                        class="transition-all duration-1000 bg-white hover:bg-black border hover:shadow-xl m-2 p-4 relative group">
                         <div
-                            class=" absolute  bg-black/50 top-0 left-0 w-24 h-1 z-30  transition-all duration-200 group-hover:bg-black group-hover:w-1/2  ">
+                            class="absolute bg-black/50 top-0 left-0 w-24 h-1 transition-all duration-200 group-hover:bg-black group-hover:w-1/2">
                         </div>
-                        <div class="py-2 px-9 relative  ">
+                        <div class="py-2 px-9">
 
-                            <svg class="w-16 h-16 fill-gray-400 group-hover:fill-blue"
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="polo-tshirt">
-                                <path d="m16.962 5.841 3.582.717-.716-4.115zM12.172 2.443l-.716 4.115 3.582-.717z">
-                                </path>
-                                <path
-                                    d="M28.488 7.301a5.354 5.354 0 0 0-2.743-3.305c-.112-.056-2.96-1.2-4.942-1.996l.87 4.987a.52.52 0 0 1-.488.746.535.535 0 0 1-.101-.01L16.5 6.806V12a.5.5 0 1 1-1 0V6.806l-4.583.917a.518.518 0 0 1-.613-.598L11.196 2c-1.982.796-4.828 1.94-4.94 1.996a5.36 5.36 0 0 0-2.75 3.328l-1.492 6.26c-.042.175.01.359.138.486l.608.608a5.487 5.487 0 0 0 3.907 1.618c.196 0 .375-.111.464-.287l1.072-2.145c.013.292.02.584.02.876V28.48c0 .231.153.435.375.499A27.03 27.03 0 0 0 16 30c2.508 0 5.015-.34 7.402-1.022a.52.52 0 0 0 .376-.5V14.74c0-.292.006-.584.019-.876l1.073 2.145a.519.519 0 0 0 .463.287 5.487 5.487 0 0 0 3.907-1.618l.608-.608a.518.518 0 0 0 .138-.487l-1.498-6.282zM17.03 11.5c-.276 0-.505-.224-.505-.5s.219-.5.495-.5h.01a.5.5 0 0 1 0 1zm0-2c-.276 0-.505-.224-.505-.5s.219-.5.495-.5h.01a.5.5 0 0 1 0 1z">
-                                </path>
+                          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 group-hover:fill-white">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
                             </svg>
-                            <h3 class="mt-8 text-lg font-semibold text-center text-black">Email
+
+                            <h3 class="mt-8 text-3xl font-semibold text-black group-hover:text-white">Email Address
                             </h3>
-                            <p class="mt-4 text-base text-gray-600 group-hover:text-black  ">Amet minim mollit non
-                                deserunt ullamco est sit aliqua dolor
-                                do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                            <p class="mt-4 text-base text-black group-hover:text-white">info@seasonaljobsuk.com<br>
+                                contact@example.com
+                            </p>
                         </div>
                     </a>
 
                     <a href="#"
-                        class="transition-all  duration-1000 bg-white  hover:bg-red-600 border hover:shadow-xl m-2 p-4 relative z-40 group  ">
+                        class="transition-all duration-1000 bg-white hover:bg-red-600 border hover:shadow-xl m-2 p-4 relative group  ">
                         <div
-                            class=" absolute  bg-black/50 top-0 left-0 w-24 h-1 z-30  transition-all duration-200   group-hover:bg-black group-hover:w-1/2  ">
+                            class=" absolute  bg-black/50 top-0 left-0 w-24 h-1 transition-all duration-200 group-hover:bg-black group-hover:w-1/2  ">
                         </div>
                         <div class="py-2 px-9 relative  ">
-                            <svg class="w-16 h-16 fill-gray-400 group-hover:fill-black"
-                                xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 64 64" viewBox="0 0 64 64"
-                                id="furniture">
-                                <path
-                                    d="M13.6 4.8v54.3c0 .4.3.8.8.8H31v-2.3H19c-.6 0-1-.5-1-1s.5-1 1-1h12V4.1H14.4C14 4.1 13.6 4.4 13.6 4.8zM29.1 38.2c0 .6-.5 1-1 1s-1-.5-1-1v-1.3c0-.6.5-1 1-1s1 .5 1 1V38.2zM29.1 25.8v6.5c0 .6-.5 1-1 1s-1-.5-1-1v-6.5c0-.6.5-1 1-1S29.1 25.3 29.1 25.8zM16.1 11c0-1.6 1.3-2.8 2.8-2.8h7.4c.6 0 1 .5 1 1 0 .6-.5 1-1 1H19c-.4 0-.8.3-.8.8v17.2c0 .6-.5 1-1 1-.6 0-1-.5-1-1V11zM49.6 4.1H33v51.5h12c.4 0 .8-.3.8-.8V9.2c0-.6.5-1 1-1s1 .5 1 1v45.5c0 1.6-1.3 2.8-2.8 2.8H33v2.3h16.6c.4 0 .8-.3.8-.8V4.8C50.4 4.4 50 4.1 49.6 4.1zM37 38.2c0 .6-.5 1-1 1s-1-.5-1-1v-1.3c0-.6.5-1 1-1s1 .5 1 1V38.2zM37 32.3c0 .6-.5 1-1 1s-1-.5-1-1v-6.5c0-.6.5-1 1-1s1 .5 1 1V32.3z">
-                                </path>
-                            </svg>
-                            <h3 class="mt-8 text-lg font-semibold text-black text-center">Phone
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 group-hover:fill-white">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
+                        </svg>
+
+
+                            <h3 class="mt-8 text-3xl font-semibold text-black group-hover:text-white">Phone
                             </h3>
-                            <p class="mt-4 text-base text-gray-600 group-hover:text-black">Amet minim mollit non
-                                deserunt ullamco est sit aliqua dolor
-                                do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                            <p class="mt-4 text-base text-black group-hover:text-white">+25496309956<br>
+                                +254787654321
+                            </p>
                         </div>
                     </a>
 
                     <a href="#"
-                        class="transition-all  duration-1000 bg-white hover:bg-green-700 border hover:shadow-xl m-2 p-4 relative z-40 group  ">
+                        class="transition-all duration-1000 bg-white hover:bg-green-700 border hover:shadow-xl m-2 p-4 relative group  ">
                         <div
-                            class=" absolute  bg-black/50 top-0 left-0 w-24 h-1 z-30  transition-all duration-200 group-hover:bg-black group-hover:w-1/2  ">
+                            class=" absolute  bg-black/50 top-0 left-0 w-24 h-1 transition-all duration-200 group-hover:bg-black group-hover:w-1/2  ">
                         </div>
-                        <div class="py-2 px-9 relative  ">
-                            <svg class="w-16 h-16 fill-gray-400 group-hover:fill-black"
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="engine">
-                                <path
-                                    d="M60,34H56a1,1,0,0,0-1,1v3H52V28a1,1,0,0,0-1-1H47.51l-4.7-6.58A1,1,0,0,0,42,20H35V17h3a1,1,0,0,0,1-1V12a1,1,0,0,0-1-1H26a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h3v3H24a1,1,0,0,0-.81.42L18.49,27H13a1,1,0,0,0-1,1V38H9V35a1,1,0,0,0-1-1H4a1,1,0,0,0-1,1V47a1,1,0,0,0,1,1H8a1,1,0,0,0,1-1V44h3v5a1,1,0,0,0,1,1H24.59l2.7,2.71A1,1,0,0,0,28,53H48a1,1,0,0,0,.71-.29l3-3A1,1,0,0,0,52,49V44h3v3a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V35A1,1,0,0,0,60,34ZM35.77,37.64l-5,6A1,1,0,0,1,30,44a1,1,0,0,1-.64-.23,1,1,0,0,1-.13-1.41L32.87,38H29a1,1,0,0,1-.77-1.64l5-6a1,1,0,0,1,1.54,1.28L31.13,36H35a1,1,0,0,1,.77,1.64Z">
-                                </path>
-                            </svg>
-                            <h3 class="mt-8 text-lg font-semibold text-black text-center">Location
+                        <div class="py-2 px-9 relative">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
+                        </svg>
+
+                            <h3 class="mt-8 text-3xl font-semibold text-black group-hover:text-white">Location
                         </h3>
-                            <p class="mt-4 text-base text-black group-hover:text-black">Amet minim mollit non
-                                deserunt ullamco est sit aliqua dolor
-                                do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                            <p class="mt-4 text-base text-black group-hover:text-white">United Kingdom<br>
+                                City Road,
+                                London</p>
                         </div>
                     </a>
                 </div>

@@ -4,7 +4,9 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('/src/assets/images/hero-lion.jpg')",
+        'hero': "url('/src/assets/images/hero-jungle.jpg')",
+        'large-hero': "url('/src/assets/images/hero-lion.jpg')",
+        'form': "url('/src/assets/images/form-white.jpg')",
       },
     },
   },

@@ -1,0 +1,19 @@
+<!-- Register item -->
+<div class="py-5 grid grid-cols-6">
+  <div class="col-span-1 flex items-center">
+    <div
+      class="z-10 flex items-center bg-green-700 shadow-xl w-8 h-8 rounded-full"
+    >
+      <h1 class="mx-auto font-semibold text-lg text-white">1</h1>
+    </div>
+  </div>
+  <div
+    class="col-span-5 rounded-2xl shadow-md px-6 py-4 border-2 border-green-700"
+  >
+    <h3 class="py-2 font-bold text-gray-800 text-xl">Register</h3>
+    <p class="text-sm tracking-wide text-gray-900">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+      exercitationem at veritatis sapiente.
+    </p>
+  </div>
+</div>
