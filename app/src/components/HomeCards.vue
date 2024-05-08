@@ -1,63 +1,53 @@
 <template>
   <section class="py-10 lg:py-20 max-w-5xl mx-auto px-4">
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 ">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       <!-- Card 1 -->
-      <div class="mx-auto place-content-center">
-        <!-- Image -->
-        <div class="h-44 w-60 bg-gray-100 rounded-3xl"></div>
-        <!-- Text Content -->
-        <div class="mx-4 pt-4">
-          <h1 class="font-semibold text-xl text-gray-900 mb-3">
-            Life in Britain
-          </h1>
-          <p class="text-sm">
+      <div class="flex flex-col bg-white">
+        <img
+          class="w-full h-52 rounded-2xl"
+          src="https://images.unsplash.com/photo-1550788919-a18fe7099302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJpdGFpbnxlbnwwfHwwfHx8MA%3D%3D"
+          alt="Image Description"
+        />
+        <div class="p-3 md:p-4">
+          <h3 class="text-lg font-bold text-gray-800">Life in Britain</h3>
+          <p class="mt-1 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            eiusmod tempor incididunt ut labore
           </p>
         </div>
       </div>
-      <div class="mx-auto">
-        <!-- Image -->
-        <div class="h-44 w-60 bg-gray-100 rounded-3xl"></div>
-        <!-- Text Content -->
-        <div class="mx-4 pt-4">
-          <h1 class="font-semibold text-xl text-gray-900 mb-3">
-            Statistics
-          </h1>
-          <p class="text-sm">
+      <!-- Card 2 -->
+      <div class="flex flex-col bg-white">
+        <img
+          class="w-full h-52 rounded-2xl"
+          src="https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt="Image Description"
+        />
+        <div class="p-3 md:p-4">
+          <h3 class="text-lg font-bold text-gray-800">Farm Life</h3>
+          <p class="mt-1 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            eiusmod tempor incididunt ut labore
           </p>
         </div>
       </div>
-      <div class="mx-auto">
-        <!-- Image -->
-        <div class="h-44 w-60 bg-gray-100 rounded-3xl"></div>
-        <!-- Text Content -->
-        <div class="mx-4 pt-4">
-          <h1 class="font-semibold text-xl text-gray-900 mb-3">
-            Farm Life
-          </h1>
-          <p class="text-sm">
+      <!-- Card 3 -->
+      <div class="flex flex-col bg-white">
+        <img
+          class="w-full h-52 rounded-2xl"
+          src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt="Image Description"
+        />
+        <div class="p-3 md:p-4">
+          <h3 class="text-lg font-bold text-gray-800">Visit and Travel</h3>
+          <p class="mt-1 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            eiusmod tempor incididunt ut labore
           </p>
         </div>
       </div>
-      <div class="mx-auto">
-        <!-- Image -->
-        <div class="h-44 w-60 bg-gray-100 rounded-3xl"></div>
-        <!-- Text Content -->
-        <div class="mx-4 pt-4">
-          <h1 class="font-semibold text-xl text-gray-900 mb-3">
-            Visit & Travel
-          </h1>
-          <p class="text-sm">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </div>
-      </div>
+      
+      
     </div>
   </section>
 </template>
