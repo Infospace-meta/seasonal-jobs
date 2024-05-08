@@ -1,8 +1,8 @@
 <template>
-  <section class="py-10 lg:py-20 max-w-5xl mx-auto">
+  <section class="py-10 lg:py-20 max-w-5xl mx-auto px-4">
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 ">
       <!-- Card 1 -->
-      <div class="mx-auto">
+      <div class="mx-auto place-content-center">
         <!-- Image -->
         <div class="h-44 w-60 bg-gray-100 rounded-3xl"></div>
         <!-- Text Content -->
