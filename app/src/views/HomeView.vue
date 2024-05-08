@@ -10,7 +10,7 @@
     </div>
     <div class="bg-white opacity-90 pt-64">
       <HomeRegistrationProcess />
-      <HomeCards/>
+      <!-- <HomeCards/> -->
       <abouthome />
     </div>
   </div>
