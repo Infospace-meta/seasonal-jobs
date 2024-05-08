@@ -6,11 +6,39 @@
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
       <!-- Text -->
       <div>
-        <ul class="pt-10 space-y-5">
-          <li>Hardworker</li>
-          <li>Between 18-35 and in good health</li>
-          <li>Any level of skills</li>
-          <li>Looking for better future</li>
+        <ul class="pt-10 space-y-10">
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg">Hardworker</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg">Between 18-35 and in good health</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg">Any level of skills</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg">Looking for better future</p>
+          </li>
         </ul>
       </div>
       <!-- Image -->
