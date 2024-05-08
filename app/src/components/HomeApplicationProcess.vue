@@ -2,11 +2,11 @@
   <section class="px-4 sm:px-8 py-8 sm:py-24">
     <div class="max-w-5xl mx-auto grid grid-cols-1 gap-8">
       <!-- Text -->
-      <div class="flex flex-col md:px-0 text-center max-w-xl mx-auto">
-        <h1 class="font-semibold text-2xl md:text-3xl mb-5">
+      <div class="flex flex-col md:px-0 text-center max-w-2xl mx-auto">
+        <h1 class="font-semibold text-2xl md:text-3xl pb-8">
           Application Process
         </h1>
-        <p>
+        <p class="text-lg">
           Only pay <span class="font-bold">£9 (KSH 1490)</span> Change your future for a real opportunity in 2024. Act now next week may be too late and to win it you must be in it 
         </p>
       </div>
