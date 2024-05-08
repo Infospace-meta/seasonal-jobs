@@ -9,7 +9,8 @@
       <Calltoaction />
     </div>
     <div class="bg-white opacity-90 pt-64">
-      <HomeRegistrationProcess />
+      <HomeApplicationProcess />
+      <HomeAboutYou/>
       <HomeCards/>
       <abouthome />
     </div>
@@ -18,8 +19,9 @@
 
 <script setup>
 import Hero from "../components/Hero.vue";
-import HomeRegistrationProcess from "../components/HomeRegistrationProcess.vue";
+import HomeApplicationProcess from "../components/HomeApplicationProcess.vue";
 import abouthome from "../components/abouthome.vue";
 import Calltoaction from "../components/calltoaction.vue";
 import HomeCards from "../components/HomeCards.vue";
+import HomeAboutYou from "../components/HomeAboutYou.vue";
 </script>
