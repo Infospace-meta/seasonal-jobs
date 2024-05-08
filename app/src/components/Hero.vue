@@ -3,11 +3,11 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <div class="max-w-2xl text-center mx-auto mt-10">
       <h1
-        class="font-semibold text-gray-800 sm:text-6xl md:text-6xl text-lg"
+        class="font-semibold text-gray-800 sm:text-6xl md:text-6xl"
       >
-        Earn Up to KSH 80,000 ($500 - $800) <span class="text-green-600">per week</span>
+        Earn Up to KSH 80,000 ($500 - $800) <span class="text-green-600 font-style:italic">per week</span>
       </h1>
-      <p class="mt-8 text-lg text-gray-800 ">
+      <p class="mt-8 text-lg text-gray-800">
          The UK is seeking short-time labour to fill their Seasonal worker
           scheme for 2024 in the agricultural sector
       </p>

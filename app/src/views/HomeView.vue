@@ -6,13 +6,14 @@
     <div
       class="absolute z-10 px-2 flex flex-col justify-center w-full items-center"
     >
-      <Calltoaction />
+      
     </div>
     <div class="bg-white opacity-90 pt-64">
       <HomeApplicationProcess />
       <HomeAboutYou/>
       <HomeCards/>
       <abouthome />
+      <Calltoaction />
     </div>
   </div>
 </template>
