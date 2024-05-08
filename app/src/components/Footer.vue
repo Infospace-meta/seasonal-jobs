@@ -10,11 +10,6 @@
           class="grid grid-cols-1 justify-content-center place-content-center space-y-5"
         >
           <router-link to="/" class="flex justify-center items-center">
-            <!-- <img
-              src="../assets/kenya-removebg.png"
-              alt="seasonaljobs"
-              class="h-1/3 w-1/3"
-            /> -->
             <div class="flex justify-center items-center space-x-2 font-serif">
               <p class="text-2xl text-red-600 font-bold">"Bring</p>
               <p class="text-2xl font-bold text-black">it</p>
@@ -31,14 +26,9 @@
             </button>
           </div>
         </div>
-
-        <!-- bottom_left part
-        <div
-          class="flex justify-center items-center lg:flex lg:justify-start lg:items-start gap-24 text-gray-500 px-2"
-        >
-          <p>Privacy Policy</p>
-          <p>Terms of Use</p>
-        </div> -->
+        <div>
+          
+        </div>
       </div>
 
       <!-- names of sections
@@ -80,7 +70,10 @@
             class="flex justify-center items-center md:flex md:justify-center md:items-center lg:flex lg:justify-end lg:items-end gap-3"
           >
             <!-- e-mail -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="info@seasonaljobsuk.com">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="info@seasonaljobsuk.com"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -88,7 +81,6 @@
                 fill="#2E7D32"
                 class="bi bi-envelope-at"
                 viewBox="0 0 16 16"
-                
               >
                 <path
                   d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z"
@@ -99,7 +91,10 @@
               </svg>
             </div>
             <!-- phone -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="+44 7399 413391">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="+44 7399 413391"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -112,12 +107,15 @@
                   d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"
                 />
               </svg>
-              <div class="absolute bg-gray-300 hidden p-2">
+              <!-- <div class="absolute bg-gray-300 hidden p-2">
                 <p class="text-white">+44 7399 413391</p>
-              </div>
+              </div> -->
             </div>
             <!-- location -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="Seasonal Jobs ltd. 128 City Road, London.">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="Seasonal Jobs ltd. 128 City Road, London."
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -135,7 +133,10 @@
               </svg>
             </div>
             <!-- whatsApp -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="+254 796 309986">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="+254 796 309986"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -309,10 +310,6 @@
   </section>
 </template>
 
-<script setup>
-
-
-
-</script>
+<script setup></script>
 
 <style lang="scss" scoped></style>
