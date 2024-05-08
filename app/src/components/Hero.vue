@@ -1,13 +1,13 @@
 <template>
-  <div class="opacity-80 lg:py-32 py-24 bg-white">
+  <div class="lg:py-32 py-24 bg-white">
     <div class="mx-auto max-w-6xl px-4">
       <!-- text for small devices -->
       <div>
         <h1
           class="lg:hidden text-2xl text-gray-950 font-medium tracking-tight leading-normal text-center"
         >
-          Earn Up-to to
-          <span class="text-green-700"> KSH 80,000</span><br />($ 500 - $ 800)
+          Earn Up to
+          <span class="text-green-700"> KSH 80,000</span><br />($500 - $800)
           <span class="text-green-700 font-style: italic"> per week </span
           ><br />
         </h1>
@@ -23,9 +23,12 @@
         <h1
           class="max-lg:hidden py-7 mx-auto max-w-3xl xl:max-w-7xl text-5xl xl:text-7xl text-gray-950 font-normal xl:leading-relaxed lg:leading-normal"
         >
-          Earn Up-to to
-          <span class="text-green-700"> KSH 80,000 </span>($ 500 - $ 800)
-          <span class="text-green-700 italic"> per week </span>
+          Earn Up to
+          <span class="text-transparent bg-clip-text bg-gradient-to-r from-red-300 to-red-700"> KSH 80,000 </span>
+          <span class="text-transparent bg-clip-text bg-gradient-to-r from-red-300 to-red-700">
+          ($500 - $800)
+          </span>
+          <span class="text-green-700 italic text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-green-700"> per week </span>
         </h1>
         <h1
           class="max-lg:hidden font-light text-black text-lg xl:text-2xl max-w-md xl:max-w-xl xl:translate-x-[520px] xl:-translate-y-28 lg:translate-x-[520px] lg:-translate-y-20"
