@@ -8,7 +8,7 @@
           src="https://images.unsplash.com/photo-1550788919-a18fe7099302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJpdGFpbnxlbnwwfHwwfHx8MA%3D%3D"
           alt="Image Description"
         />
-        <div class="p-3 md:p-4">
+        <div class="p-2 md:p-3">
           <h3 class="text-lg font-bold text-gray-800">Life in Britain</h3>
           <p class="mt-1 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -23,7 +23,7 @@
           src="https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Image Description"
         />
-        <div class="p-3 md:p-4">
+        <div class="p-2 md:p-3">
           <h3 class="text-lg font-bold text-gray-800">Farm Life</h3>
           <p class="mt-1 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -38,7 +38,7 @@
           src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Image Description"
         />
-        <div class="p-3 md:p-4">
+        <div class="p-2 md:p-3">
           <h3 class="text-lg font-bold text-gray-800">Visit and Travel</h3>
           <p class="mt-1 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
