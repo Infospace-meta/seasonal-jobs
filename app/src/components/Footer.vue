@@ -80,7 +80,7 @@
             class="flex justify-center items-center md:flex md:justify-center md:items-center lg:flex lg:justify-end lg:items-end gap-3"
           >
             <!-- e-mail -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="info@seasonaljobsuk.com">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -88,6 +88,7 @@
                 fill="#2E7D32"
                 class="bi bi-envelope-at"
                 viewBox="0 0 16 16"
+                
               >
                 <path
                   d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z"
@@ -98,7 +99,7 @@
               </svg>
             </div>
             <!-- phone -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="+44 7399 413391">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -116,7 +117,7 @@
               </div>
             </div>
             <!-- location -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="Seasonal Jobs ltd. 128 City Road, London.">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -134,7 +135,7 @@
               </svg>
             </div>
             <!-- whatsApp -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div class="rounded-full bg-gray-200 p-2 hover:bg-white" title="+254 796 309986">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -270,7 +271,7 @@
           />
         </div>
       </div> -->
-
+      <footercalltoaction />
       <hr />
       <!-- bottom part -->
       <div
@@ -308,6 +309,10 @@
   </section>
 </template>
 
-<script setup></script>
+<script setup>
+
+
+
+</script>
 
 <style lang="scss" scoped></style>
