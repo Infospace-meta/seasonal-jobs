@@ -6,9 +6,10 @@
 
     <div class="bg-white">
       <HomeApplicationProcess />
+      <aboutus />
       <HomeAboutYou />
       <HomeCards />
-      <abouthome />
+      
       <Calltoaction />
     </div>
   </div>
@@ -17,7 +18,7 @@
 <script setup>
 import Hero from "../components/Hero.vue";
 import HomeApplicationProcess from "../components/HomeApplicationProcess.vue";
-import abouthome from "../components/abouthome.vue";
+import aboutus from "../components/aboutus.vue";
 import Calltoaction from "../components/calltoaction.vue";
 import HomeCards from "../components/HomeCards.vue";
 import HomeAboutYou from "../components/HomeAboutYou.vue";
