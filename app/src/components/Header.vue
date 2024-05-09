@@ -6,7 +6,7 @@
           class="col-span-5 lg:col-span-2 flex justify-center items-center gap-6"
         >
           <h1
-            class="text-2xl p-1 mt-1 text-gray-900 hover:text-indigo-700 lg:hidden"
+            class="text-2xl p-1 mt-1 text-gray-900 hover:text-green-700 lg:hidden"
             @click="toggleMenu"
           >
             {{ close ? "☰" : "✘" }}
