@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <div class="inset-0 bg-white opacity-100">
+    <div class="inset-0 bg-white opacity-90">
       <Hero />
     </div>
 
