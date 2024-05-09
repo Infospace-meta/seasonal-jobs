@@ -9,11 +9,14 @@
           alt="Image Description"
         />
         <div class="p-2 md:p-3">
-          <h3 class="text-lg font-bold text-gray-800">Life in Britain</h3>
-          <p class="mt-1 text-gray-600">
+          <h3 class="text-lg font-bold text-gray-800">Life in the UK</h3>
+          <p class="py-2 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
+          <a class="text-green-700 font-bold underline underline-offset-1"
+            >Read more</a
+          >
         </div>
       </div>
       <!-- Card 2 -->
@@ -25,10 +28,13 @@
         />
         <div class="p-2 md:p-3">
           <h3 class="text-lg font-bold text-gray-800">Farm Life</h3>
-          <p class="mt-1 text-gray-600">
+          <p class="py-2 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
+          <a class="text-green-700 font-bold underline underline-offset-1"
+            >Read more</a
+          >
         </div>
       </div>
       <!-- Card 3 -->
@@ -40,10 +46,13 @@
         />
         <div class="p-2 md:p-3">
           <h3 class="text-lg font-bold text-gray-800">Visit and Travel</h3>
-          <p class="mt-1 text-gray-600">
+          <p class="py-2 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
+          <a class="text-green-700 font-bold underline underline-offset-1"
+            >Read more</a
+          >
         </div>
       </div>
     </div>

@@ -3,11 +3,11 @@
     <div class="inset-0 bg-white opacity-100">
       <Hero />
     </div>
-    
+
     <div class="bg-white">
       <HomeApplicationProcess />
-      <HomeAboutYou/>
-      <HomeCards/>
+      <HomeAboutYou />
+      <HomeCards />
       <abouthome />
       <Calltoaction />
     </div>
