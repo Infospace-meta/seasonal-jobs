@@ -14,13 +14,14 @@
       </div>
       <!-- End Text -->
 
+      <!-- Cards -->
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5">
         <!-- Card 1 -->
         <div class="rounded-2xl px-6 py-4 border-2 border-gray-200">
           <div
             class="bg-green-700 h-12 w-12 flex justify-center items-center mb-4 rounded-xl"
           >
-            <p class="text-green-100">1</p>
+            <p class="text-green-100 text-xl">1</p>
           </div>
           <h3 class="mb-3 font-bold text-gray-800 text-xl">Register</h3>
           <p class="text-sm tracking-wide text-gray-900">
@@ -33,7 +34,7 @@
           <div
             class="bg-green-700 h-12 w-12 flex justify-center items-center mb-4 rounded-xl"
           >
-            <p class="text-green-100">2</p>
+            <p class="text-green-100 text-xl">2</p>
           </div>
           <h3 class="mb-3 font-bold text-gray-800 text-xl">Apply</h3>
           <p class="text-sm tracking-wide text-gray-900">
@@ -46,7 +47,7 @@
           <div
             class="bg-green-700 h-12 w-12 flex justify-center items-center mb-4 rounded-xl"
           >
-            <p class="text-green-100">3</p>
+            <p class="text-green-100 text-xl">3</p>
           </div>
           <h3 class="mb-3 font-bold text-gray-800 text-xl">Receive</h3>
           <p class="text-sm tracking-wide text-gray-900">
@@ -59,7 +60,7 @@
           <div
             class="bg-green-700 h-12 w-12 flex justify-center items-center mb-4 rounded-xl"
           >
-            <p class="text-green-100">4</p>
+            <p class="text-green-100 text-xl">4</p>
           </div>
           <h3 class="mb-3 font-bold text-gray-800 text-xl">Travel</h3>
           <p class="text-sm tracking-wide text-gray-900">
@@ -72,7 +73,7 @@
           <div
             class="bg-green-700 h-12 w-12 flex justify-center items-center mb-4 rounded-xl"
           >
-            <p class="text-green-100">5</p>
+            <p class="text-green-100 text-xl">5</p>
           </div>
           <h3 class="mb-3 font-bold text-gray-800 text-xl">Work</h3>
           <p class="text-sm tracking-wide text-gray-900">
@@ -85,7 +86,7 @@
           <div
             class="bg-green-700 h-12 w-12 flex justify-center items-center mb-4 rounded-xl"
           >
-            <p class="text-green-100">6</p>
+            <p class="text-green-100 text-xl">6</p>
           </div>
           <h3 class="mb-3 font-bold text-gray-800 text-xl">Bring it Home</h3>
           <p class="text-sm tracking-wide text-gray-900">
