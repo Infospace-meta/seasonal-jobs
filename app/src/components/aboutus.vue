@@ -6,7 +6,7 @@
       <p class="text-2xl text-green-600 font-bold">Home!"</p>
     </div> -->
     <div class="grid grid-cols-1 justify-content-center place-content-center">
-      <div class="text-center py-10 space-y-5">
+      <div class="text-center py-10 space-y-8">
         <h1 class="text-4xl text-gray-800">About Us</h1>
         <p class="text-xl leading-8 tracking-tight px-10 text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
@@ -15,23 +15,25 @@
         </p>
       </div>
       <div
-        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 lg:grid lg:grid-cols-3 gap-10 px-10"
+        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 lg:grid lg:grid-cols-3 gap-10 px-10 py-5"
       >
-        <div class="border-[1px] border-gray-500 p-5 rounded-md shadow-xl bg-slate-200">
+        <div class="border-[1px] border-gray-500 p-5 rounded-md shadow-xl bg-slate-100 ">
           <div class="place-self-center">
             <img
               src="../assets/icons/airplane.svg"
-              class="h-12 w-12"
+              class="h-12 w-12 rotate-45"
               alt="House icon"
             />
           </div>
-          <div class="flex justify-center items-center space-x-3 py-5 font-serif">
+          <div >
+            <router-link to="/aboutus" class="flex justify-center items-center space-x-3 py-5 font-serif">
             <p class="text-xl font-bold  text-blue-500">"Seasonal</p>
             <p class="text-xl font-bold text-red-500">Jobs"</p>
+          </router-link>
           </div >
           <p class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
         </div>
-        <div class="border-[1px] border-red-400 p-5 rounded-md shadow-xl bg-slate-200">
+        <div class="border-[1px] border-red-400 p-5 rounded-md shadow-xl bg-slate-100">
           <div class="place-self-center">
             <img
               src="../assets/icons/house-check-fill.svg"
@@ -52,7 +54,7 @@
           </p>
         </div>
 
-        <div class="border-[1px] border-green-500 p-5 rounded-md shadow-xl bg-slate-200 ">
+        <div class="border-[1px] border-green-500 p-5 rounded-md shadow-xl bg-slate-100 ">
           <div class="flex justify-center items-center space-x-2 font-serif py-5">
             <p class="text-red-500 text-xl font-semibold">"YouthFund </p>
             <p class="text-black text-xl font-semibold">Enterprise"</p>
