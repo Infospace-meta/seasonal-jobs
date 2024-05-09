@@ -1,25 +1,82 @@
 <template>
-  <div class="relative overflow-hidden">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-      <div class="max-w-2xl text-center mx-auto mt-10">
-        <h1 class="font-semibold text-gray-800 sm:text-6xl md:text-6xl text-3xl">
-          Earn Up to KSH 80,000 ($500 - $800)
-          <span class="text-green-600">per week</span>
+  <div>
+    <div
+      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 "
+    >
+      <div class="mx-auto lg:col-span-7 mt-8">
+        <h1
+          class="max-w-2xl mt-6 text-7xl font-semibold tracking-tight leading-none md:text-5xl xl:text-6xl text-center lg:text-start text-gray-800"
+        >
+          Earn between <span class="text-green-700 ">£500 & £800 / week</span> <br>
         </h1>
-        <p class="mt-8 text-sm sm:text-lg text-gray-800">
-          The UK is seeking short-time labour to fill their Seasonal worker
-          scheme for 2024 in the agricultural sector
-        </p>
+        <br />
+        <div>
+        <ul class="pb-10 space-y-4">
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg text-black font-semibold">No skills required
+</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg text-black font-semibold">Only passport and flight ticket required
+</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg text-black font-semibold">Registration fee of  £9 (KSH1500)</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg text-black font-semibold">Seasonal job visa program</p>
+          </li>
+          <li class="flex space-x-2">
+            <img
+              class="w-6 h-6"
+              src="@/assets/icons/check2-circle.svg"
+              alt="icon"
+            />
+            <p class="text-lg text-black font-semibold">'Bring it Home!'  to invest in Kenya
+</p>
+          </li>
+        </ul>
+      </div>
+        
+        <div class="flex justify-center lg:justify-start">
+          <a
+          href="#"
+          class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-black rounded-2xl hover:bg-green-700  border-2 border-green-500 hover:text-white mt-3"
+          >
+          Register Now </a>
+        </div>
+        
+        <br /><br />
+      </div>
+      <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7 pt-4 mx-auto  ">
+        <img
+          class="rounded-3xl"
+          src="https://static.wixstatic.com/media/2a0017_93a9a7dc623d41c8b59d99c46851664b~mv2.webp"
+          alt="mockup"
+        />
       </div>
     </div>
-  </div>
-  <div class="flex justify-center pb-24">
-    <a
-      href="#"
-      class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-3xl bg-green-700 hover:bg-green-800"
-    >
-      Register Now
-    </a>
+    <br />
   </div>
 </template>
 
