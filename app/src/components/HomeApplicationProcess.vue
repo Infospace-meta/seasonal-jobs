@@ -3,7 +3,7 @@
     <div class="max-w-5xl mx-auto flex flex-col gap-8">
       <!-- Text -->
       <div class="flex flex-col md:px-0 text-center max-w-2xl mx-auto pb-5">
-        <h1 class="font-semibold text-2xl md:text-3xl pb-6">
+        <h1 class="font-semibold text-2xl md:text-5xl pb-6">
           Application Process
         </h1>
         <p class="text-lg">
