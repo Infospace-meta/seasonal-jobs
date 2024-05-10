@@ -1,5 +1,11 @@
 <template>
-  <div class="text-red-700"></div>
+  <div class="bg-white opacity-95">
+    <contact />
+    <faqs />
+  </div>
 </template>
 
-<script setup></script>
+<script setup>
+import contact from "../components/contact.vue";
+import faqs from "../components/faqs.vue";
+</script>
