@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white opacity-95">
+  <div class="bg-white opacity-100">
     <AboutHeader />
     <AboutCards />
   </div>
