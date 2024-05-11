@@ -1,6 +1,6 @@
 <template>
-  <section class="mx-auto max-w-6xl">
-    <div class="border-[2px] border-green-600 rounded-xl px-10 py-10">
+  <section class="mx-auto max-w-5xl">
+    <div class="border-[2px] border-green-600 rounded-3xl px-10 py-10">
       <div class="flex justify-start items-start">
         <img
           src="../assets/icons/arrow-right-svgrepo-com.svg"
