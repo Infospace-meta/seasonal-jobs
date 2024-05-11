@@ -2,19 +2,14 @@
   <section class="bg-gray-50">
     <div class="md:max-w-xl lg:max-w-7xl mx-auto py-5 text-gray-500">
       <!-- <div class="flex flex-col justify-center items-center space-y-10 py-10 sm:flex sm:flex-row sm:justify-between sm:items-center sm:py-14 mx-5"> -->
-      <div
+      <!-- <div
         class="grid grid-cols-1 justify-center items-center space-y-10 py-10 md:grid md:grid-cols-1 md:justify-between md:items-center lg:grid lg:grid-cols-3 lg:justify-between lg:items-center sm:py-14 mx-1"
-      >
+      > -->
         <!-- seasonaljobs logo -->
-        <div
+        <!-- <div
           class="grid grid-cols-1 justify-content-center place-content-center space-y-5"
         >
           <router-link to="/" class="flex justify-center items-center">
-            <!-- <img
-              src="../assets/kenya-removebg.png"
-              alt="seasonaljobs"
-              class="h-1/3 w-1/3"
-            /> -->
             <div class="flex justify-center items-center space-x-2 font-serif">
               <p class="text-2xl text-red-600 font-bold">"Bring</p>
               <p class="text-2xl font-bold text-black">it</p>
@@ -30,16 +25,9 @@
               <router-link to="/register"></router-link>Register
             </button>
           </div>
-        </div>
-
-        <!-- bottom_left part
-        <div
-          class="flex justify-center items-center lg:flex lg:justify-start lg:items-start gap-24 text-gray-500 px-2"
-        >
-          <p>Privacy Policy</p>
-          <p>Terms of Use</p>
         </div> -->
-      </div>
+        
+      <!-- </div> -->
 
       <!-- names of sections
       <div class="">
@@ -58,27 +46,33 @@
           </li>
         </ul>
       </div> -->
-      <hr />
-      <div></div>
+      <!-- <hr />
+      <div></div> -->
 
       <!-- social icons -->
       <div
-        class="grid grid-cols-2 justify-content-between place-content-between py-5"
+        class="grid grid-cols-2 justify-content-between place-items-center py-10"
       >
-        <div class="h-3/4 w-3/4">
+        <router-link to="/">
+      <div class="h-3/4 w-3/4">
           <img src="../assets/images/seasonal_logo.png" alt="seasonal_jobs" />
-        </div>
+        </div></router-link>
+
         <div>
           <p
             class="text-gray-500 flex justify-center items-center py-2 lg:justify-end lg:items-end px-2"
           >
             Stay in touch with us
           </p>
+
           <div
             class="flex justify-center items-center md:flex md:justify-center md:items-center lg:flex lg:justify-end lg:items-end gap-3"
           >
             <!-- e-mail -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="info@seasonaljobsuk.com"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -96,7 +90,10 @@
               </svg>
             </div>
             <!-- phone -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="+44 7399 413391"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -109,12 +106,15 @@
                   d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"
                 />
               </svg>
-              <div class="absolute bg-gray-300 hidden p-2">
+              <!-- <div class="absolute bg-gray-300 hidden p-2">
                 <p class="text-white">+44 7399 413391</p>
-              </div>
+              </div> -->
             </div>
             <!-- location -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="Seasonal Jobs ltd. 128 City Road, London."
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -132,7 +132,10 @@
               </svg>
             </div>
             <!-- whatsApp -->
-            <div class="rounded-full bg-gray-200 p-2 hover:bg-white">
+            <div
+              class="rounded-full bg-gray-200 p-2 hover:bg-white"
+              title="+254 796 309986"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -149,8 +152,9 @@
           </div>
         </div>
       </div>
+
       <div
-        class="grid grid-cols-1 justify-center items-center lg:grid lg:grid-cols-4 lg:justify-center lg:items-center bg-gray-300 px-5 space-y-5 gap-10 py-10"
+        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 sm:justify-content-center sm:place-content-center lg:grid lg:grid-cols-4 lg:justify-content-center lg:place-content-center bg-gray-100 px-10 lg:px-20 gap-10 lg:gap-16 py-10"
       >
         <div
           class="flex flex-col justify-center items-center lg:grid lg:grid-cols-1 lg:justify-content-start lg:place-content-start space-y-3"
@@ -221,6 +225,29 @@
             </li>
           </ul>
         </div>
+        <div
+          class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-3"
+        >
+          <h1 class="text-lg font-semibold text-gray-900 -left-5">
+            <router-link to="/register"> Register</router-link>
+          </h1>
+          <ul
+            class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
+          >
+            <li class="hover:underline">
+              <router-link to="#">lorem</router-link>
+            </li>
+            <li class="hover:underline">
+              <router-link to="#">Ipsum</router-link>
+            </li>
+            <li class="hover:underline">
+              <router-link to="#">Clomun</router-link>
+            </li>
+            <li class="hover:underline">
+              <router-link to="#">Veliaranto</router-link>
+            </li>
+          </ul>
+        </div>
       </div>
 
       <!-- <div
@@ -244,7 +271,7 @@
           />
         </div>
       </div> -->
-
+      <footercalltoaction />
       <hr />
       <!-- bottom part -->
       <div
@@ -257,19 +284,7 @@
           <div
             class="flex justify-center items-center lg:flex lg:justify-center lg:items-center space-x-1"
           >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width=""
-              height=""
-              fill="currentColor"
-              class="bi bi-c-circle h-3 w-3 lg:mb-[5px]"
-              viewBox="0 0 16 16"
-            >
-              <path
-                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.146 4.992c-1.212 0-1.927.92-1.927 2.502v1.06c0 1.571.703 2.462 1.927 2.462.979 0 1.641-.586 1.729-1.418h1.295v.093c-.1 1.448-1.354 2.467-3.03 2.467-2.091 0-3.269-1.336-3.269-3.603V7.482c0-2.261 1.201-3.638 3.27-3.638 1.681 0 2.935 1.054 3.029 2.572v.088H9.875c-.088-.879-.768-1.512-1.729-1.512"
-              />
-            </svg>
-            <p class="">Copyright 2024. All Rights Reserved</p>
+            &copy;2024. All Rights Reserved
           </div>
           <p
             class="flex justify-center items-center lg:flex lg:justify-center lg:items-center"

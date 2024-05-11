@@ -1,23 +1,26 @@
 <template>
   <div class="relative">
-    <div class="inset-0 bg-white opacity-90">
+    <div class="inset-0 bg-white opacity-100">
       <Hero />
     </div>
-    <div
-      class="absolute z-10 px-2 flex flex-col justify-center w-full items-center"
-    >
+
+    <div class="bg-white">
+      <HomeApplicationProcess />
+      <aboutus />
+      <HomeAboutYou />
+      <HomeCards />
+      <Rememberthis/>
       <Calltoaction />
-    </div>
-    <div class="bg-white opacity-90 pt-64">
-      <HomeRegistrationProcess />
-      <abouthome />
     </div>
   </div>
 </template>
 
 <script setup>
 import Hero from "../components/Hero.vue";
-import HomeRegistrationProcess from "../components/HomeRegistrationProcess.vue";
-import abouthome from "../components/abouthome.vue";
+import HomeApplicationProcess from "../components/HomeApplicationProcess.vue";
+import aboutus from "../components/aboutus.vue";
 import Calltoaction from "../components/calltoaction.vue";
+import HomeCards from "../components/HomeCards.vue";
+import HomeAboutYou from "../components/HomeAboutYou.vue";
+import Rememberthis from "../components/Rememberthis.vue";
 </script>
