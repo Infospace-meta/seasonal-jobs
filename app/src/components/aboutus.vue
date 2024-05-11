@@ -8,7 +8,7 @@
     <div class="grid grid-cols-1 justify-content-center place-content-center">
       <div class="text-center py-10 space-y-8">
         <h1 class="text-4xl text-gray-800">About Us</h1>
-        <p class="text-xl leading-8 tracking-tight px-10 text-gray-500">
+        <p class="text-xl leading-8 tracking-tight px-10 text-gray-600">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
           dicta laborum adipisci sunt! Molestias veritatis ipsum sunt temporibus
           commodi eveniet!
@@ -28,7 +28,7 @@
           <div >
             <router-link to="/aboutus" class="flex justify-center items-center space-x-3 py-5 font-serif">
             <p class="text-xl font-bold  text-blue-500">"Seasonal</p>
-            <p class="text-xl font-bold text-red-500">Jobs"</p>
+            <p class="text-xl font-bold text-blue-500">Jobs"</p>
           </router-link>
           </div >
           <p class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
@@ -45,8 +45,8 @@
           <div
             class="flex justify-center items-center space-x-2 font-serif py-5"
           >
-            <p class="text-xl text-red-600 font-bold">"Bring</p>
-            <p class="text-xl font-bold">it</p>
+            <p class="text-xl text-green-600 font-bold">"Bring</p>
+            <p class="text-xl text-green-600 font-bold">it</p>
             <p class="text-xl text-green-600 font-bold">Home!"</p>
           </div>
           <p class="text-center">
@@ -55,9 +55,16 @@
         </div>
 
         <div class="border-[1px] border-green-500 p-5 rounded-md shadow-xl bg-slate-100 ">
+          <div class="place-self-center">
+            <img
+              src="../assets/icons/money-svgrepo-com2.svg"
+              class="h-12 w-12"
+              alt="House icon"
+            />
+          </div>
           <div class="flex justify-center items-center space-x-2 font-serif py-5">
             <p class="text-red-500 text-xl font-semibold">"YouthFund </p>
-            <p class="text-black text-xl font-semibold">Enterprise"</p>
+            <p class="text-red-500 text-xl font-semibold">Enterprise"</p>
           </div>
           <p class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
         </div>
