@@ -9,7 +9,7 @@
       <aboutus />
       <HomeAboutYou />
       <HomeCards />
-      
+      <Rememberthis/>
       <Calltoaction />
     </div>
   </div>
@@ -22,4 +22,5 @@ import aboutus from "../components/aboutus.vue";
 import Calltoaction from "../components/calltoaction.vue";
 import HomeCards from "../components/HomeCards.vue";
 import HomeAboutYou from "../components/HomeAboutYou.vue";
+import Rememberthis from "../components/Rememberthis.vue";
 </script>

@@ -53,9 +53,10 @@
       <div
         class="grid grid-cols-2 justify-content-between place-items-center py-10"
       >
-        <div class="h-3/4 w-3/4">
+        <router-link to="/">
+      <div class="h-3/4 w-3/4">
           <img src="../assets/images/seasonal_logo.png" alt="seasonal_jobs" />
-        </div>
+        </div></router-link>
 
         <div>
           <p
