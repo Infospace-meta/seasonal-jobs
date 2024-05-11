@@ -14,7 +14,8 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
-          <a class="text-green-700 font-bold underline underline-offset-1"
+          <a
+            class="text-green-700 font-bold underline underline-offset-1 hover:cursor-pointer"
             >Read more</a
           >
         </div>
@@ -32,7 +33,8 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
-          <a class="text-green-700 font-bold underline underline-offset-1"
+          <a
+            class="text-green-700 font-bold underline underline-offset-1 hover:cursor-pointer"
             >Read more</a
           >
         </div>
@@ -50,7 +52,8 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
-          <a class="text-green-700 font-bold underline underline-offset-1"
+          <a
+            class="text-green-700 font-bold underline underline-offset-1 hover:cursor-pointer"
             >Read more</a
           >
         </div>
