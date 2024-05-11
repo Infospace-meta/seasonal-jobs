@@ -1,6 +1,8 @@
 <template>
-  <section class="mx-auto max-w-5xl">
-    <div class="border-[2px] border-green-600 rounded-3xl px-10 py-10">
+  <section class="mx-auto max-w-5xl ">
+    <div class="mx-5">
+    <div class="border-[3px] border-green-600 rounded-3xl px-10 py-5">
+      <h1 class="px-11 py-2 font-semibold">Remember.</h1>
       <div class="flex justify-start items-start">
         <img
           src="../assets/icons/arrow-right-svgrepo-com.svg"
@@ -34,6 +36,10 @@
         <p>Only passport and flight ticket required</p>
       </div>
     </div>
+    <div>
+
+    </div>
+  </div>
   </section>
 </template>
 
