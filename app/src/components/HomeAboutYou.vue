@@ -1,5 +1,5 @@
 <template>
-  <section class="py-10 lg:py-20 max-w-5xl mx-auto px-4 sm:px-8">
+  <section class="py-10 lg:py-20 max-w-6xl mx-auto px-4 sm:px-8">
     <h2 class="text-2xl font-semibold leading-tight text-black sm:text-3xl">
       About You
     </h2>
