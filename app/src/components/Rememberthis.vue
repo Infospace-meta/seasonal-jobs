@@ -40,7 +40,7 @@
       </div>
       <div class="space-y-10">
         <h1 class="py-10">
-          Want to Earn Yourself some Money Working in the UK
+          Work in the Uk and earn upto 
         </h1>
 
         <router-link
