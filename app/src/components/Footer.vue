@@ -195,7 +195,7 @@
               <router-link to="#">Ask a question</router-link>
             </li>
             <li class="hover:underline">
-              <router-link to="#">Terms & Conditions</router-link>
+              <router-link to="/tcs">Terms of Use</router-link>
             </li>
             <li class="hover:underline">
               <router-link to="#">Privacy Policy</router-link>
@@ -225,7 +225,7 @@
             </li>
           </ul>
         </div>
-        <div
+        <!-- <div
           class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-3"
         >
           <h1 class="text-lg font-semibold text-gray-900 -left-5">
@@ -247,7 +247,7 @@
               <router-link to="#">Veliaranto</router-link>
             </li>
           </ul>
-        </div>
+        </div> -->
       </div>
 
       <!-- <div
