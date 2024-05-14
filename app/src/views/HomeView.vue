@@ -10,7 +10,7 @@
       <HomeAboutYou />
       <HomeCards />
       <Rememberthis/>
-      <Calltoaction />
+      <!-- <Calltoaction /> -->
     </div>
   </div>
 </template>
