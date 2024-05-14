@@ -1,7 +1,7 @@
 <template>
   <section class="mx-auto max-w-6xl py-10">
     <div
-      class="mx-5 grid grid-cols-1 sm:grid sm:grid-cols-2 gap-5 border-[3px] border-green-600 rounded-3xl px-10 py-5 bg-slate-800 text-white"
+      class="mx-5 grid grid-cols-1 sm:grid sm:grid-cols-2 gap-5 rounded-3xl px-10 py-5 bg-slate-800 text-white"
     >
       <div>
         <h1 class="px-11 py-2 font-semibold">Remember.</h1>
