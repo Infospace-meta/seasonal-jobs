@@ -52,7 +52,7 @@
         >
           Life in the UK
         </h1>
-        <p class="mb-0 text-sm font-normal text-gray-900 lg:text-xl sm:px-16">
+        <p class="mb-0 text-lg font-normal text-gray-900 lg:text-xl sm:px-16">
           Upon arrival You are collected by the Sponsor from the arrival airport
           to commence work immediately. Each approved applicant will be given
           the contact number of Seasonal Jobs for emergency use should
@@ -96,7 +96,7 @@
         >
         Farm Life
         </h1>
-        <p class="mb-0 text-sm font-normal text-gray-900 lg:text-xl sm:px-16">
+        <p class="mb-0 text-lg font-normal text-gray-900 lg:text-xl sm:px-16">
           Upon arrival you are collected by the Sponsor from the arrival airport
           to commence work immediately. Each approved applicant will be given
           the contact number of Seasonal Jobs for emergency use should
