@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { HomeView, AboutView, ContactView, RegisterView, TCsView  } from "../views";
+import { HomeView, AboutView, ContactView, RegisterView, TCsView, FindMore  } from "../views";
 
 
 const routes = [
@@ -8,6 +8,7 @@ const routes = [
   { path: "/about", name: "about", component: AboutView },
   { path: "/contact", name: "contact", component: ContactView },
   { path: "/register", name: "register", component: RegisterView },
+  { path: "/find-more", name: "find-more", component: FindMore },
 ];
 
 /**Initialize here */

@@ -8,16 +8,17 @@
           src="https://images.unsplash.com/photo-1550788919-a18fe7099302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJpdGFpbnxlbnwwfHwwfHx8MA%3D%3D"
           alt="Image Description"
         />
-        <div class="p-2 md:p-3">
-          <h3 class="text-lg font-bold text-gray-800">Life in the UK</h3>
+        <div class="pt-3">
+          <h3 class="text-2xl font-semibold text-gray-800">Life in the UK</h3>
           <p class="py-2 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
-          <a
-            class="text-green-700 font-bold underline underline-offset-1 hover:cursor-pointer"
-            >Read more</a
-          >
+          <router-link
+            to="/find-more"
+            class="text-green-700 font-bold text-xl underline underline-offset-1 hover:cursor-pointer"
+            >Read more
+          </router-link>
         </div>
       </div>
       <!-- Card 2 -->
@@ -27,16 +28,17 @@
           src="https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Image Description"
         />
-        <div class="p-2 md:p-3">
-          <h3 class="text-lg font-bold text-gray-800">Farm Life</h3>
+        <div class="pt-3">
+          <h3 class="text-2xl font-semibold text-gray-800">Farm Life</h3>
           <p class="py-2 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
-          <a
-            class="text-green-700 font-bold underline underline-offset-1 hover:cursor-pointer"
-            >Read more</a
-          >
+          <router-link
+            to="/find-more"
+            class="text-green-700 font-bold text-xl underline underline-offset-1 hover:cursor-pointer"
+            >Read more
+          </router-link>
         </div>
       </div>
       <!-- Card 3 -->
@@ -46,16 +48,17 @@
           src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Image Description"
         />
-        <div class="p-2 md:p-3">
-          <h3 class="text-lg font-bold text-gray-800">Visit and Travel</h3>
+        <div class="pt-3">
+          <h3 class="text-2xl font-semibold text-gray-800">Visit and Travel</h3>
           <p class="py-2 text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore
           </p>
-          <a
-            class="text-green-700 font-bold underline underline-offset-1 hover:cursor-pointer"
-            >Read more</a
-          >
+          <router-link
+            to="/find-more"
+            class="text-green-700 font-bold text-xl underline underline-offset-1 hover:cursor-pointer"
+            >Read more
+          </router-link>
         </div>
       </div>
     </div>

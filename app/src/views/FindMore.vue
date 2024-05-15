@@ -1,11 +1,11 @@
 <template>
   <div class="bg-white bg-opacity-95">
-    <terms />
+    <FindMoreComponent/>
   </div>
 </template>
 
 <script setup>
-import terms from "../components/terms.vue";
+import FindMoreComponent from "../components/FindMoreComponent.vue"
 </script>
 
 <style lang="scss" scoped></style>
