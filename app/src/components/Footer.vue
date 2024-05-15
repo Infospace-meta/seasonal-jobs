@@ -157,7 +157,7 @@
       </div>
 
       <div
-        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-3 sm:justify-content-center sm:place-content-center lg:grid lg:grid-cols-4 lg:justify-content-center lg:place-content-center bg-gray-100 px-10 lg:px-20 gap-10 lg:gap-16 py-10"
+        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-3 sm:justify-content-center sm:place-content-center bg-gray-100 px-10 lg:px-20 gap-10 lg:gap-16 py-10"
       >
         <div
           class="flex flex-col justify-center items-center lg:grid lg:grid-cols-1 lg:justify-content-start lg:place-content-start space-y-3"
