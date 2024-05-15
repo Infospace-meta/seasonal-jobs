@@ -5,8 +5,8 @@
       <!-- <div
         class="grid grid-cols-1 justify-center items-center space-y-10 py-10 md:grid md:grid-cols-1 md:justify-between md:items-center lg:grid lg:grid-cols-3 lg:justify-between lg:items-center sm:py-14 mx-1"
       > -->
-        <!-- seasonaljobs logo -->
-        <!-- <div
+      <!-- seasonaljobs logo -->
+      <!-- <div
           class="grid grid-cols-1 justify-content-center place-content-center space-y-5"
         >
           <router-link to="/" class="flex justify-center items-center">
@@ -26,7 +26,7 @@
             </button>
           </div>
         </div> -->
-        
+
       <!-- </div> -->
 
       <!-- names of sections
@@ -54,9 +54,12 @@
         class="grid grid-cols-2 justify-content-between place-items-center py-10"
       >
         <router-link to="/">
-      <div class="h-3/4 w-3/4">
-          <img src="../assets/images/seasonal_logo.png" alt="seasonal_jobs" />
-        </div></router-link>
+          <div class="h-3/4 w-3/4">
+            <img
+              src="../assets/images/seasonal_logo.png"
+              alt="seasonal_jobs"
+            /></div
+        ></router-link>
 
         <div>
           <p
@@ -154,7 +157,7 @@
       </div>
 
       <div
-        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 sm:justify-content-center sm:place-content-center lg:grid lg:grid-cols-4 lg:justify-content-center lg:place-content-center bg-gray-100 px-10 lg:px-20 gap-10 lg:gap-16 py-10"
+        class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-3 sm:justify-content-center sm:place-content-center lg:grid lg:grid-cols-4 lg:justify-content-center lg:place-content-center bg-gray-100 px-10 lg:px-20 gap-10 lg:gap-16 py-10"
       >
         <div
           class="flex flex-col justify-center items-center lg:grid lg:grid-cols-1 lg:justify-content-start lg:place-content-start space-y-3"
