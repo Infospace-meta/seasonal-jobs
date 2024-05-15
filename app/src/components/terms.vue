@@ -1,14 +1,14 @@
 <template>
   <section class="py-10 mx-auto max-w-6xl">
     <div class="px-10 space-y-2">
-      <h1>Terms of Use</h1>
+      <h1 class="font-bold text-2xl">Terms of Use</h1>
       <div class="space-y-5">
         <h3>
           When you register with us, it confirms that not only have you read the
           below listed terms of use but that you agree with said terms.
         </h3>
-        <p>Our terms are as follows:</p>
-        <ul class="space-y-2">
+        <p class="font-semibold text-lg">Our terms are as follows:</p>
+        <ul class="space-y-2 list-disc">
           <li>
             In interacting with us, you are fully aware that you are NOT
             interacting with a Recruitment Agency when registering with us to
