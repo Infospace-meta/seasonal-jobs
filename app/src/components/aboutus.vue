@@ -1,10 +1,5 @@
 <template>
   <section class="mx-auto max-w-5xl py-10">
-    <!-- <div class="flex justify-center items-center space-x-2 font-serif">
-      <p class="text-2xl text-red-600 font-bold">"Bring</p>
-      <p class="text-2xl font-bold">it</p>
-      <p class="text-2xl text-green-600 font-bold">Home!"</p>
-    </div> -->
     <div class="grid grid-cols-1 justify-content-center place-content-center">
       <div class="text-center py-10 space-y-8">
         <h1 class="text-5xl text-gray-900 font-bold">About Us</h1>
@@ -37,7 +32,8 @@
             </router-link>
           </div>
           <p class="text-center text-gray-600">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            The program is to promote youth participation in Agriculture
+            through metorship and skills transfer,...
           </p>
         </div>
         <div
@@ -59,7 +55,9 @@
             <p class="text-xl text-black font-bold">Home!"</p>
           </div>
           <p class="text-center text-gray-600">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            The “Bring it Home!” concept is one that ensures, investments
+            brought are back home
+            <strong class="text-red-500">"Kenya"</strong> .
           </p>
         </div>
 
@@ -80,7 +78,8 @@
             <p class="text-black text-xl font-semibold">Enterprise"</p>
           </div>
           <p class="text-center text-gray-600">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            Empowering youth through enterprise for economic growth and
+            development.
           </p>
         </div>
       </div>

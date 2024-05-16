@@ -116,16 +116,16 @@
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/about">Mission</router-link>
             </li>
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/about">Vision</router-link>
             </li>
-            <li class="hover:underline hover:font-bold">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/about">YouthFund</router-link>
             </li>
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/register">Register</router-link>
             </li>
           </ul>
@@ -138,16 +138,16 @@
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/contact">Support</router-link>
             </li>
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/contact">Ask a question</router-link>
             </li>
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/tcs">Terms of Use</router-link>
             </li>
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/privacy">Privacy Policy</router-link>
             </li>
           </ul>
@@ -156,23 +156,23 @@
           class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-3"
         >
           <h1 class="text-lg font-semibold text-gray-900 -left-5">
-            <router-link to="/register"> Register</router-link>
+            <router-link to="/register"> Info</router-link>
           </h1>
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
-            <li class="hover:underline">
-              <router-link to="#">lorem</router-link>
+            <li class="hover:underline hover:font-bold hover:text-black">
+              <router-link to="/blogs">Blogs</router-link>
             </li>
-            <li class="hover:underline">
-              <router-link to="#">Ipsum</router-link>
+            <li class="hover:underline hover:font-bold hover:text-black">
+              <router-link to="/newsletter">Newsletter</router-link>
             </li>
-            <li class="hover:underline">
-              <router-link to="#">Clomun</router-link>
+            <li class="hover:underline hover:font-bold hover:text-black">
+              <router-link to="/season">Season</router-link>
             </li>
-            <li class="hover:underline">
+            <!-- <li class="hover:underline">
               <router-link to="#">Veliaranto</router-link>
-            </li>
+            </li> -->
           </ul>
         </div>
        
