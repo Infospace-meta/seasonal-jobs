@@ -27,7 +27,7 @@
           </div>
           <div>
             <router-link
-              to="/aboutus"
+              to="/about"
               class="flex justify-center items-center space-x-3 py-5 font-serif"
             >
               <p class="text-xl font-bold text-black">"Seasonal</p>
@@ -36,7 +36,7 @@
           </div>
           <p class="text-center text-gray-600">
             The program is to promote youth participation in Agriculture through
-            metorship and skills transfer,...
+            metorship and skills transfer.
           </p>
         </div>
         <div
