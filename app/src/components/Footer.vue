@@ -110,9 +110,7 @@
         <div
           class="flex flex-col justify-center items-center lg:grid lg:grid-cols-1 lg:justify-content-start lg:place-content-start space-y-3"
         >
-          <h1 class="text-lg font-semibold text-gray-900">
-            About Us
-          </h1>
+          <h1 class="text-lg font-semibold text-gray-900">About Us</h1>
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
@@ -133,8 +131,7 @@
         <div
           class="flex flex-col justify-center items-center lg:grid lg:grid-cols-1 lg:justify-content-start lg:place-content-start space-y-3"
         >
-          <h1 class="text-lg font-semibold text-gray-900">
-            Help          </h1>
+          <h1 class="text-lg font-semibold text-gray-900">Help</h1>
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
@@ -170,14 +167,13 @@
             <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/season">Season</router-link>
             </li>
-            <!-- <li class="hover:underline">
-              <router-link to="#">Veliaranto</router-link>
-            </li> -->
+            <li class="hover:underline">
+              <router-link to="/news">News</router-link>
+            </li>
           </ul>
         </div>
-       
       </div>
-     
+
       <footercalltoaction />
       <hr />
       <!-- bottom part -->

@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-flags sm:bg-hero bg-no-repeat lg:bg-contain bg-center bg-fixed">
+  <div class="min-h-screen lg:bg-hero bg-no-repeat lg:bg-contain bg-center bg-fixed">
     <Header />
     <div class="mt-14 lg:mt-28">
       <RouterView />

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
+      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 "
     >
       <div class="mx-auto lg:col-span-7 mt-8">
         <h1
@@ -75,7 +75,7 @@
 
         <br /><br />
       </div>
-      <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7 pt-4 mx-auto">
+      <div class="lg:hidden pt-4 mx-auto">
         <img
           class="rounded-3xl"
           src="https://static.wixstatic.com/media/2a0017_93a9a7dc623d41c8b59d99c46851664b~mv2.webp"
