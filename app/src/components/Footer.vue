@@ -167,7 +167,7 @@
             <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/season">Season</router-link>
             </li>
-            <li class="hover:underline">
+            <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/news">News</router-link>
             </li>
           </ul>
