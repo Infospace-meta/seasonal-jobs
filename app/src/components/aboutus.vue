@@ -4,9 +4,12 @@
       <div class="text-center py-10 space-y-8">
         <h1 class="text-5xl text-gray-900 font-bold">About Us</h1>
         <p class="text-xl leading-8 tracking-tight px-10 text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-          dicta laborum adipisci sunt! Molestias veritatis ipsum sunt temporibus
-          commodi eveniet!
+          "Seasonal jobs" typically refer to temporary employment opportunities
+          that arise during specific times of the year, often due to seasonal
+          demand or fluctuations in certain industries. Examples include jobs in
+          agriculture during harvest seasons, retail positions during holiday
+          shopping periods, and tourism-related roles during peak travel
+          seasons.
         </p>
       </div>
       <div
@@ -32,8 +35,8 @@
             </router-link>
           </div>
           <p class="text-center text-gray-600">
-            The program is to promote youth participation in Agriculture
-            through metorship and skills transfer,...
+            The program is to promote youth participation in Agriculture through
+            metorship and skills transfer,...
           </p>
         </div>
         <div
