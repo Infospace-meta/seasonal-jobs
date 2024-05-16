@@ -1,8 +1,7 @@
 <template>
   <div>
-    <body class="">
-      
-      <h1 class="text-4xl text-center font-semibold mb-10">Terms of use</h1>
+   
+      <h1 class="text-4xl text-center font-semibold">Terms of use</h1>
       <p class="text-xl text-center font-semibold mt-4">When you register with us, it confirms that not only have you read the
                 below listed terms of use but that you agree with said terms.<br></p>
         <p class="mt-10 text-center text-3xl text-gray-700">Our terms are as follows:</p>
@@ -196,10 +195,8 @@
             <div class="col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto w-full">
               <h3 class="font-semibold text-lg  text-gray-700 leading-tight text-center lg:text-end">These Terms are to be read in conjunction with the general Terms &
         Conditions which can be made available upon request.</h3>
-              <p class="">
-              </p>
             </div>
           </div>
-  </body>
+ 
   </div>
 </template>
