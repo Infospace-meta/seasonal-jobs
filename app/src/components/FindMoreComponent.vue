@@ -24,25 +24,27 @@
       <!--  -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/Kenya.webp"
+        src="../assets/images/boardingplane.jpg"
         alt="Image Description"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/flyout1.jpeg"
+        src="../assets/images/flyout2.jpeg"
         alt="Image Description"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/flyout2.jpeg"
+        src="../assets/images/KQ-2.jpg"
         alt="Image Description"
       />
       <!-- Image 4 -->
-      <div
-        class="w-full h-52 rounded-3xl bg-gray-100 "
-      ></div>
+      <img
+        class="w-full h-52 rounded-2xl"
+        src="../assets/images/flyout1.jpeg"
+        alt="Image Description"
+      />
     </div>
   </section>
   <!-- Life in the UK component -->
