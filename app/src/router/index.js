@@ -1,16 +1,30 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { HomeView, AboutView, ContactView, RegisterView } from "../views";
-import { useAuthStore } from "../store";
+import { HomeView, AboutView, ContactView, RegisterView, TCsView, FindMore  } from "../views";
+
 
 const routes = [
   { path: "/", name: "home", component: HomeView },
+  { path: "/tcs", name: "terms&conditions", component: TCsView },
   { path: "/about", name: "about", component: AboutView },
   { path: "/contact", name: "contact", component: ContactView },
   { path: "/register", name: "register", component: RegisterView },
+  { path: "/find-more", name: "find-more", component: FindMore },
 ];
 
 /**Initialize here */
-const router = createRouter({ history: createWebHistory(), routes });
+const router = createRouter({
+  history: createWebHistory(),
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return { top: 0 };
+    }
+  },
+  routes
+})
+
+
 
 // router.beforeEach(async (to) => {
 //   // redirect to login page if not logged in and trying to access a restricted page

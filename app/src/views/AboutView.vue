@@ -1,5 +1,11 @@
 <template>
-  <div class="text-red-700"> hello</div>
+  <div class="bg-white opacity-100">
+    <AboutHeader />
+    <AboutCards />
+  </div>
 </template>
 
-<script setup></script>
+<script setup>
+import AboutCards from "../components/AboutCards.vue";
+import AboutHeader from "../components/AboutHeader.vue";
+</script>
