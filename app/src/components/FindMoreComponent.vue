@@ -5,6 +5,7 @@
       <div class="py-8 px-4 mx-auto max-w-4xl text-center lg:py-8 lg:px-0">
         <h1
           class="mb-4 text-3xl font-semibold tracking-tight leading-none text-black md:text-4xl lg:text-5xl"
+          id="travelling-to-the-uk"
         >
           Traveling to the UK
         </h1>
@@ -12,8 +13,8 @@
           After application what next? <br />
           It is the responsibility of the applicant to pay for the Biometric
           data collection & the Seasonal Job Visa which will be approved with a
-          Sponsorship Number from the UK. then obtain a passport, a letter of
-          Good Conduct (confirm necessity), Visa with biometrics and, finally,
+          Sponsorship Number from the UK. Then obtain a passport, a letter of
+          Good Conduct, Visa with biometrics and, finally,
           with the assistance of Seasonal Jobs an air ticket for travel.
         </p>
       </div>
@@ -49,6 +50,7 @@
       <div class="py-8 px-4 mx-auto max-w-4xl text-center lg:py-8 lg:px-0">
         <h1
           class="mb-4 text-3xl font-semibold tracking-tight leading-none text-black md:text-4xl lg:text-5xl"
+          id="life-in-the-uk"
         >
           Life in the UK
         </h1>
@@ -97,16 +99,19 @@
       <div class="py-8 px-4 mx-auto max-w-4xl text-center lg:py-8 lg:px-0">
         <h1
           class="mb-4 text-3xl font-semibold tracking-tight leading-none text-black md:text-4xl lg:text-5xl"
+          id="farm-life"
         >
-        Farm Life
+          Farm Life
         </h1>
         <p class="mb-0 text-lg font-normal text-gray-900 lg:text-xl sm:px-16">
-          Upon arrival you are collected by the Sponsor from the arrival airport
-          to commence work immediately. Each approved applicant will be given
-          the contact number of Seasonal Jobs for emergency use should
-          circumstances require it. UK agencies will offer accommodation at
-          government rate The government appointed UK agencies will cover all
-          successful applicants with basic medical cover insurance.
+          Participants will undergo a brief but detailed training program
+          tailored to their specific agricultural roles. The Employer will
+          guarantee a minimum working week of 32 hours, normal to be 48 hours &
+          option to work 72 hours subject to agreeing to a standard
+          waiver.During weekends or freetime To encourage cross-cultural
+          interactions, participants will be engaged in various activities such
+          as cultural exchange events, community service projects, and language
+          immersion sessions.
         </p>
       </div>
     </div>

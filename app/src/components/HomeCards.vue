@@ -11,8 +11,8 @@
         <div class="pt-3">
           <h3 class="text-2xl font-semibold text-gray-800">Life in the UK</h3>
           <p class="py-2 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore
+            Upon arrival You are collected by the Sponsor from the arrival
+            airport to commence work immediately. Each approved applicant ...
           </p>
           <router-link
             to="/find-more"
@@ -31,8 +31,8 @@
         <div class="pt-3">
           <h3 class="text-2xl font-semibold text-gray-800">Farm Life</h3>
           <p class="py-2 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore
+            Participants will undergo a brief but detailed training program
+          tailored to their specific agricultural roles. The Employer ...
           </p>
           <router-link
             to="/find-more"
@@ -49,10 +49,10 @@
           alt="Image Description"
         />
         <div class="pt-3">
-          <h3 class="text-2xl font-semibold text-gray-800">Visit and Travel</h3>
+          <h3 class="text-2xl font-semibold text-gray-800">Travelling to the UK</h3>
           <p class="py-2 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore
+            It is the responsibility of the applicant to pay for the Biometric
+          data collection & the Seasonal Job Visa which will be approved with ...
           </p>
           <router-link
             to="/find-more"
