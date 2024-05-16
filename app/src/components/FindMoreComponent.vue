@@ -21,22 +21,24 @@
     <!-- Images -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 py-8 px-4">
       <!-- Image 1 -->
-      <!-- <img
+      <!--  -->
+      <img
         class="w-full h-52 rounded-2xl"
-        src="https://images.unsplash.com/photo-1550788919-a18fe7099302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJpdGFpbnxlbnwwfHwwfHx8MA%3D%3D"
+        src="../assets/images/Kenya.webp"
         alt="Image Description"
-      /> -->
-      <div
-        class="w-full h-52 rounded-3xl bg-gray-100 "
-      ></div>
+      />
       <!-- Image 2 -->
-      <div
-        class="w-full h-52 rounded-3xl bg-gray-100 "
-      ></div>
+      <img
+        class="w-full h-52 rounded-2xl"
+        src="../assets/images/flyout1.jpeg"
+        alt="Image Description"
+      />
       <!-- Image 3 -->
-      <div
-        class="w-full h-52 rounded-3xl bg-gray-100 "
-      ></div>
+      <img
+        class="w-full h-52 rounded-2xl"
+        src="../assets/images/flyout2.jpeg"
+        alt="Image Description"
+      />
       <!-- Image 4 -->
       <div
         class="w-full h-52 rounded-3xl bg-gray-100 "
