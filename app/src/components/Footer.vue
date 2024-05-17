@@ -192,7 +192,7 @@
               <router-link to="/tcs">Terms of Use</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/contact">Privacy Policy</router-link>
+              <router-link to="/privacypolicy">Privacy Policy</router-link>
             </li>
             <!-- <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/">Season</router-link>
