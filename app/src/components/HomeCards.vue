@@ -10,7 +10,7 @@
           loading="lazy"
         />
         <div class="pt-3">
-          <h3 class="text-2xl font-semibold text-gray-800">Life in the UK</h3>
+          <h1 class="text-2xl font-semibold text-gray-800">Life in the UK</h1>
           <p class="py-2 text-gray-600">
             Upon arrival You are collected by the Sponsor from the arrival
             airport to commence work immediately. Each approved applicant ...
@@ -31,7 +31,7 @@
           loading="lazy"
         />
         <div class="pt-3">
-          <h3 class="text-2xl font-semibold text-gray-800">Farm Life</h3>
+          <h1 class="text-2xl font-semibold text-gray-800">Farm Life</h1>
           <p class="py-2 text-gray-600">
             Participants will undergo a brief but detailed training program
           tailored to their specific agricultural roles. The Employer ...
@@ -52,7 +52,7 @@
           loading="lazy"
         />
         <div class="pt-3">
-          <h3 class="text-2xl font-semibold text-gray-800">Travelling to the UK</h3>
+          <h1 class="text-2xl font-semibold text-gray-800">Travelling to the UK</h1>
           <p class="py-2 text-gray-600">
             It is the responsibility of the applicant to pay for the Biometric
           data collection & the Seasonal Job Visa which will be approved with ...
