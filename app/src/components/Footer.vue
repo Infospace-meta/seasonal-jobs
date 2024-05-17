@@ -115,13 +115,13 @@
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/about">Mission</router-link>
+              <router-link to="/">Mission</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/about">Vision</router-link>
+              <router-link to="/">Vision</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/about">YouthFund</router-link>
+              <router-link to="/">YouthFund</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/register">Register</router-link>
@@ -142,10 +142,10 @@
               <router-link to="/contact">Ask a question</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/tcs">Terms of Use</router-link>
+              <router-link to="/">Terms of Use</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/privacy">Privacy Policy</router-link>
+              <router-link to="/">Privacy Policy</router-link>
             </li>
           </ul>
         </div>
@@ -159,22 +159,22 @@
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start space-y-2"
           >
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/blogs">Blogs</router-link>
+              <router-link to="/">Blogs</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/newsletter">Newsletter</router-link>
+              <router-link to="/">Newsletter</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/season">Season</router-link>
+              <router-link to="/">Season</router-link>
             </li>
-            <li class="hover:underline">
-              <router-link to="/news">News</router-link>
+            <li class="hover:underline hover:font-bold hover:text-black">
+              <router-link to="/">News</router-link>
             </li>
           </ul>
         </div>
       </div>
 
-      <footercalltoaction />
+      <!-- <footercalltoaction /> -->
       <hr />
       <!-- bottom part -->
       <div

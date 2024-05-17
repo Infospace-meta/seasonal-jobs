@@ -21,10 +21,7 @@
 
       <!-- seasonal job image -->
       <div class="w-full px-5 h-72 rounded-md md:w-5/12">
-        <img
-          src="../assets/images/seasonal_logo.png"
-          class="w-11/12 h-full transition hover:scale-125"
-        />
+        <img src="../assets/images/seasonal_logo.png" class="w-11/12 h-11/12" />
       </div>
     </div>
 
@@ -35,15 +32,15 @@
       <!-- bring it image  home -->
       <div class="w-full h-72 rounded-md px-5 md:w-5/12">
         <img
-          src="../assets/kenya_wbg.png"
-          class="w-full h-full transition hover:scale-125"
+          src="../assets/images/blueberries.png"
+          class="w-full h-full rounded-3xl"
         />
       </div>
 
       <!-- bring it home contect -->
       <div class="w-full px-5 py-10 md:w-5/12">
         <h1 class="text-2xl left pb-5 hover:underline md:text-4xl">
-          Bring It Home
+          Work In The UK
         </h1>
         <p class="block">
           We know opportunity for employment in East Africa is very restricted &
@@ -76,10 +73,7 @@
       <!-- Bring it home image -->
 
       <div class="w-full h-72 rounded-md md:w-5/12">
-        <img
-          src="../assets/kenya_wbg.png"
-          class="w-full h-full mx-5 transition hover:scale-125"
-        />
+        <img src="../assets/kenya_wbg.png" class="w-full h-full mx-5" />
       </div>
     </div>
 
@@ -91,7 +85,7 @@
       <div class="w-full h-72 rounded-md md:w-5/12">
         <img
           src="../assets/images/youth_logo.png"
-          class="w-10/12 h-full mx-5 transition hover:scale-125"
+          class="w-10/12 h-full mx-5"
         />
       </div>
 
