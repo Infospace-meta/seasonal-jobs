@@ -8,8 +8,9 @@
           <router-link to="/">
             <div class="h-3/4 w-3/4">
               <img
-                src="../assets/images/seasonal_logo.png"
+                src="../assets/images/seasonal_logo.webp"
                 alt="seasonal_jobs"
+                loading="lazy"
               />
             </div>
           </router-link>
