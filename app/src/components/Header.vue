@@ -14,7 +14,7 @@
           <router-link to="/" class="">
             <img
               class="md:h-14 h-10"
-              src="../assets/images/seasonal_logo.png"
+              src="../assets/images/seasonal_logo.webp"
             />
           </router-link>
         </div>
@@ -79,7 +79,7 @@
         <div class="col-span-3 lg:col-span-2 flex justify-center items-center">
           <img
             class="max-lg:hidden md:h-20 h-12"
-            src="../assets/images/youth_logo.png"
+            src="../assets/images/youth_logo.webp"
           />
           <router-link
             :to="{ name: 'home' }"

@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('/src/assets/images/flagss.jpg')",
+        'hero': "url('/src/assets/images/flagss.avif')",
         'flags': "url('/src/assets/images/Kenya.webp')",
         'large-hero': "url('/src/assets/images/hero-lion.jpg')",
         'form': "url('/src/assets/images/form-white.jpg')",
