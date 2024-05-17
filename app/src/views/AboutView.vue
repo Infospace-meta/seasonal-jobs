@@ -6,6 +6,6 @@
 </template>
 
 <script setup>
-import AboutCards from "../components/AboutCards.vue";
-import AboutHeader from "../components/AboutHeader.vue";
+import AboutCards from "@/components/AboutCards.vue";
+import AboutHeader from "@/components/AboutHeader.vue";
 </script>
