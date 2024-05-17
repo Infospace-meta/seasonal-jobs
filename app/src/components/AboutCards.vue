@@ -32,7 +32,7 @@
       <!-- bring it image  home -->
       <div class="w-full h-72 rounded-md px-5 md:w-5/12">
         <img
-          src="../assets/images/blueberries.png"
+          src="../assets/images/blueberries.webp"
           class="w-full h-full rounded-3xl"
         />
       </div>
