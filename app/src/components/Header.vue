@@ -15,6 +15,7 @@
             <img
               class="md:h-14 h-10"
               src="../assets/images/seasonal_logo.webp"
+              alt="seasonal-jobs logo"
             />
           </router-link>
         </div>
@@ -80,6 +81,7 @@
           <img
             class="max-lg:hidden md:h-20 h-12"
             src="../assets/images/youth_logo.webp"
+            alt="youth-fund logo"
           />
           <router-link
             :to="{ name: 'home' }"

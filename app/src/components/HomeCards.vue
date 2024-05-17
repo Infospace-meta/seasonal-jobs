@@ -17,8 +17,8 @@
           </p>
           <router-link
             to="/find-more"
-            class="text-green-700 font-bold text-xl underline underline-offset-1 hover:cursor-pointer"
-            >Read more
+            class="text-green-700 font-bold text-lg underline underline-offset-1 hover:cursor-pointer"
+            >Living in UK
           </router-link>
         </div>
       </div>
@@ -38,8 +38,8 @@
           </p>
           <router-link
             to="/find-more"
-            class="text-green-700 font-bold text-xl underline underline-offset-1 hover:cursor-pointer"
-            >Read more
+            class="text-green-700 font-bold text-lg underline underline-offset-1 hover:cursor-pointer"
+            >Farming abroad
           </router-link>
         </div>
       </div>
@@ -59,8 +59,8 @@
           </p>
           <router-link
             to="/find-more"
-            class="text-green-700 font-bold text-xl underline underline-offset-1 hover:cursor-pointer"
-            >Read more
+            class="text-green-700 font-bold text-lg underline underline-offset-1 hover:cursor-pointer"
+            >Travel abroad
           </router-link>
         </div>
       </div>
