@@ -1,0 +1,13 @@
+<template>
+    <div>
+<PrivacyPolicy/>
+    </div>
+</template>
+
+<script setup>
+import PrivacyPolicy from '../components/PrivacyPolicy.vue';
+</script>
+
+<style lang="scss" scoped>
+
+</style>

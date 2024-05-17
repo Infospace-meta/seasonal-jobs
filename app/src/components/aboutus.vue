@@ -16,7 +16,7 @@
         class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 lg:grid lg:grid-cols-3 gap-10 px-10 py-5"
       >
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-white hover:scale-1.2"
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-orange-100"
         >
           <div class="place-self-center">
             <img
@@ -40,7 +40,7 @@
           </p>
         </div>
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-white"
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-orange-100"
         >
           <div class="place-self-center">
             <img
@@ -65,7 +65,7 @@
         </div>
 
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-white"
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-orange-100"
         >
           <div class="place-self-center">
             <img

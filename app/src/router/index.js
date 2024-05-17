@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { HomeView, AboutView, ContactView, RegisterView, TCsView, FindMore, NotFoundView  } from "../views";
+import { HomeView, AboutView, ContactView, RegisterView, TCsView, FindMore, NotFoundView, PrivacyPolicyView } from "../views";
 
 
 const routes = [
@@ -10,6 +10,7 @@ const routes = [
   { path: "/register", name: "register", component: RegisterView },
   { path: "/find-more", name: "find-more", component: FindMore },
   { path: '/:pathMatch(.*)*', name: 'page-not-found', component: NotFoundView },
+  { path: "privacypolicy", name: 'privacy-policy', component: PrivacyPolicyView },
 ];
 
 /**Initialize here */
