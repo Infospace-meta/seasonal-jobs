@@ -9,5 +9,3 @@
 import AboutCards from "@/components/aboutCards.vue";
 import AboutHeader from "@/components/aboutHeader.vue";
 </script>
-<template></template>
-<script setup></script>
