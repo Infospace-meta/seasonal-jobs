@@ -78,7 +78,7 @@
       <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7  pt-4 mx-auto">
         <img
           class="rounded-3xl"
-          src="https://static.wixstatic.com/media/2a0017_93a9a7dc623d41c8b59d99c46851664b~mv2.webp"
+          src="../assets/images/uk-ke-flags.webp"
           alt="mockup"
         />
       </div>

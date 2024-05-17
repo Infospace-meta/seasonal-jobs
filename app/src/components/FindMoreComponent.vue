@@ -124,26 +124,30 @@
 
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/cabbages.png"
+        src="../assets/images/cabbages.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/berries.png"
+        src="../assets/images/berries.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/mushrooms.png"
+        src="../assets/images/mushrooms.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 4 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/tractors.png"
+        src="../assets/images/tractors.webp"
         alt="Image Description"
+        loading="lazy"
       />
     </div>
   </section>

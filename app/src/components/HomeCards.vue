@@ -7,6 +7,7 @@
           class="w-full h-52 rounded-2xl"
           src="../assets/images/life-in-the-uk.avif"
           alt="Image Description"
+          loading="lazy"
         />
         <div class="pt-3">
           <h3 class="text-2xl font-semibold text-gray-800">Life in the UK</h3>
@@ -27,6 +28,7 @@
           class="w-full h-52 rounded-2xl"
           src="../assets/images/farm-life.avif"
           alt="Image Description"
+          loading="lazy"
         />
         <div class="pt-3">
           <h3 class="text-2xl font-semibold text-gray-800">Farm Life</h3>
@@ -47,6 +49,7 @@
           class="w-full h-52 rounded-2xl"
           src="../assets/images/visit-travel.avif"
           alt="Image Description"
+          loading="lazy"
         />
         <div class="pt-3">
           <h3 class="text-2xl font-semibold text-gray-800">Travelling to the UK</h3>
