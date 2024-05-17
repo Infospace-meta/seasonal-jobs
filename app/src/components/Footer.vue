@@ -2,7 +2,7 @@
   <section class="bg-gray-50">
     <div class="md:max-w-xl lg:max-w-7xl mx-auto py-5 text-gray-500">
       <div
-        class="grid grid-cols-1 justify-content-start place-items-start lg:grid lg:grid-cols-3 justify-content-start lg:place-items-start py-10"
+        class="grid grid-cols-1 justify-content-start place-items-start md:grid md:grid-cols-2 md:justify-content-start md:place-items-start lg:grid lg:grid-cols-3 justify-content-start lg:place-items-start gap-3 py-10"
       >
         <div class="px-5">
           <router-link to="/">
@@ -77,7 +77,7 @@
         </div>
 
         <div
-          class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-start lg:items-start gap-3"
+          class="flex flex-col justify-start items-start lg:flex lg:flex-col lg:justify-start lg:items-start gap-3"
         >
           <!-- whatsApp -->
           <div
@@ -105,7 +105,7 @@
 
           <!-- location -->
           <div
-            class="flex justify-center items-center lg:flex lg:justify-start lg:items-start gap-2"
+            class="flex justify-start items-start lg:flex lg:justify-start lg:items-start gap-2"
           >
             <div
               class="rounded-full bg-gray-200 p-2 hover:bg-white"

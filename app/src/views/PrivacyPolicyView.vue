@@ -1,6 +1,6 @@
 <template>
     <div>
-<PrivacyPolicy/>
+    <PrivacyPolicy/>
     </div>
 </template>
 
