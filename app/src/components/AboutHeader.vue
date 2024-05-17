@@ -1,16 +1,12 @@
 <template>
-    <div class="h-72 bg-[url('../assets/backImages.jpg')] bg-center relative bg-no-repeat bg-cover w-full rounded-md mt-24 mx-auto flex justify-center items-center md:max-w-6xl">
-
-        <h1 class="text-white absolute  text-5xl">About-Us</h1>
-        <img src="../" alt="">
-
-    </div>
+  <div
+    class="h-72 bg-[url('../assets/backImages.jpg')] bg-center relative bg-no-repeat bg-cover w-full rounded-md mt-24 mx-auto flex justify-center items-center md:max-w-6xl"
+  >
+    <h1 class="text-white absolute text-5xl">About-Us</h1>
+    <!-- <img src="../" alt=""> -->
+  </div>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
