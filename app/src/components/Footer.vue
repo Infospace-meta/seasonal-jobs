@@ -142,10 +142,10 @@
               <router-link to="/contact">Ask a question</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/">Terms of Use</router-link>
+              <router-link to="/tcs">Terms of Use</router-link>
             </li>
             <li class="hover:underline hover:font-bold hover:text-black">
-              <router-link to="/">Privacy Policy</router-link>
+              <router-link to="/contact">Privacy Policy</router-link>
             </li>
           </ul>
         </div>
