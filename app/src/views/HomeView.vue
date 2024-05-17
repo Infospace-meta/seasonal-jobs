@@ -7,7 +7,6 @@
     <div class="bg-white">
       <HomeApplicationProcess />
       <aboutus />
-      <HomeAboutYou />
       <HomeCards />
       <Rememberthis/>
       <!-- <Calltoaction /> -->
