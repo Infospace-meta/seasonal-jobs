@@ -25,25 +25,25 @@
      
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/boardingplane.jpg"
+        src="../assets/images/boardingplane.webp"
         alt="Image Description"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/flyout2.jpeg"
+        src="../assets/images/flyout2.webp"
         alt="Image Description"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/KQ-2.jpg"
+        src="../assets/images/KQ-2.webp"
         alt="Image Description"
       />
       <!-- Image 4 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/flyout1.jpeg"
+        src="../assets/images/flyout1.webp"
         alt="Image Description"
       />
     </div>
