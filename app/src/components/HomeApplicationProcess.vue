@@ -22,7 +22,7 @@
         >
           <img
             class="w-full"
-            src="https://cdn.rareblocks.xyz/collection/celebration/images/steps/2/curved-dotted-line.svg"
+            src="../assets/icons/curved-dotted-line.svg"
             alt=""
           />
         </div>
@@ -85,7 +85,7 @@
         >
           <img
             class="w-full"
-            src="https://cdn.rareblocks.xyz/collection/celebration/images/steps/2/curved-dotted-line.svg"
+            src="../assets/icons/curved-dotted-line.svg"
             alt=""
           />
         </div>

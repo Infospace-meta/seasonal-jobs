@@ -1,11 +1,11 @@
 <template>
   <div>
     <div
-      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 "
+      class="lg:pb-4 grid lg:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
     >
       <div class="mx-auto lg:col-span-7 mt-8">
         <h1
-          class="max-w-2xl mt-6 text-7xl font-semibold tracking-tight leading-none md:text-5xl xl:text-6xl text-center lg:text-start text-gray-800"
+          class="max-w-2xl mt-6 text-5xl font-semibold tracking-tight leading-none md:text-5xl xl:text-6xl text-center lg:text-start text-gray-800"
         >
           Earn between <span class="text-green-700">£500 & £800 / week</span>
           <br />
@@ -75,7 +75,7 @@
 
         <br /><br />
       </div>
-      <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7  pt-4 mx-auto">
+      <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7 pt-4 mx-auto">
         <img
           class="rounded-3xl"
           src="../assets/images/uk-ke-flags.webp"
