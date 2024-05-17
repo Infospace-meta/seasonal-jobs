@@ -73,26 +73,30 @@
       <!-- Image 1 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/sleeepingchambers.png"
+        src="../assets/images/sleeepingchambers.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/sittingarea.png"
+        src="../assets/images/sittingarea.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/pooltables.png"
+        src="../assets/images/pooltables.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 4 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/recreationalactivities.png"
+        src="../assets/images/recreationalactivities.webp"
         alt="Image Description"
+        loading="lazy"
       />
     </div>
   </section>
