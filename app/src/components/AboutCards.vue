@@ -21,7 +21,7 @@
 
       <!-- seasonal job image -->
       <div class="w-full px-5 h-72 rounded-md md:w-5/12">
-        <img src="../assets/images/seasonal_logo.png" class="w-11/12 h-11/12" />
+        <img src="../assets/images/seasonal_logo.webp" class="w-11/12 h-11/12" />
       </div>
     </div>
 
@@ -32,7 +32,7 @@
       <!-- bring it image  home -->
       <div class="w-full h-72 rounded-md px-5 md:w-5/12">
         <img
-          src="../assets/images/blueberries.png"
+          src="../assets/images/blueberries.webp"
           class="w-full h-full rounded-3xl"
         />
       </div>
@@ -84,7 +84,7 @@
       <!-- Youthfund image -->
       <div class="w-full h-72 rounded-md md:w-5/12">
         <img
-          src="../assets/images/youth_logo.png"
+          src="../assets/images/youth_logo.webp"
           class="w-10/12 h-full mx-5"
         />
       </div>
