@@ -4,7 +4,7 @@
       <div
         class="grid grid-cols-1 justify-content-start place-items-start lg:grid lg:grid-cols-3 justify-content-start lg:place-items-start gap-3 py-10"
       >
-        <div class="mx-24 md:mx-4">
+        <div class="px-5">
           <router-link to="/">
             <div class="h-3/4 w-3/4">
               <img
@@ -15,9 +15,9 @@
             </div>
           </router-link>
         </div>
-        <div class="grid grid-cols-1 justify-content-center place-content-center lg:grid lg:grid-cols-2 justify-content-center lg:place-content-center gap-3">
+        
           <div
-            class="flex flex-col justify-start items-start lg:flex lg:flex-col lg:justify-start lg:items-start gap-2"
+            class="flex flex-col justify-start items-start lg:flex lg:flex-col lg:justify-start lg:items-start gap-3"
           >
             <!-- <p
                 class="text-gray-500 flex justify-center items-center py-2 lg:justify-start lg:items-start px-4"
@@ -27,7 +27,7 @@
 
             <!-- phone -->
             <div
-              class="flex justify-start items-start lg:flex lg:justify-start lg:items-start px-3 gap-2"
+              class="flex justify-center items-center lg:flex lg:justify-start lg:items-start gap-2 px-3"
             >
               <div
                 class="rounded-full bg-gray-200 p-2 hover:bg-white"
@@ -46,12 +46,12 @@
                   />
                 </svg>
               </div>
-              <p class="mt-1">+44 7399 413391</p>
+              <p class="mt-1 text-black">+44 7399 413391</p>
             </div>
 
             <!-- e-mail -->
             <div
-              class="flex justify-start items-start lg:flex lg:justify-start lg:items-start gap-2 px-2"
+              class="flex justify-center items-center lg:flex lg:justify-start lg:items-start gap-2 px-3"
             >
               <div
                 class="rounded-full bg-gray-200 p-2 hover:bg-white"
@@ -73,16 +73,16 @@
                   />
                 </svg>
               </div>
-              <p class="mt-1">info@seasonaljobsuk.com</p>
+              <p class="mt-1 text-black">info@seasonaljobsuk.com</p>
             </div>
           </div>
 
           <div
-            class="flex flex-col justify-start items-start lg:flex lg:flex-col lg:justify-start lg:items-start gap-3"
+            class="flex flex-col justify-start items-start lg:flex lg:flex-col lg:justify-start lg:items-start gap-3 "
           >
             <!-- whatsApp -->
             <div
-              class="flex justify-start items-start lg:flex lg:justify-start lg:items-start gap-2 px-3"
+              class="flex justify-center items-center lg:flex lg:justify-start lg:items-start gap-2 px-3"
             >
               <div
                 class="rounded-full bg-gray-200 p-2 hover:bg-white"
@@ -101,12 +101,12 @@
                   />
                 </svg>
               </div>
-              <p class="mt-1">+254 796 309986</p>
+              <p class="mt-1 text-black">+254 796 309986</p>
             </div>
 
             <!-- location -->
             <div
-              class="flex justify-start items-start lg:flex lg:justify-end lg:items-end gap-2 px-3"
+              class="flex justify-start items-start lg:flex lg:justify-start lg:items-start gap-2 px-3 "
             >
               <div
                 class="rounded-full bg-gray-200 p-2 hover:bg-white"
@@ -128,10 +128,10 @@
                   />
                 </svg>
               </div>
-              <p class="mt-1">Seasonal Jobs ltd. 128 City Road, London.</p>
+              <p class="mt-1 text-black">Seasonal Jobs ltd. 128 City Road, London.</p>
             </div>
           </div>
-        </div>
+       
       </div>
 
       <div
@@ -150,10 +150,10 @@
             <li class="hover:underline hover:font-bold hover:text-black">
               <router-link to="/">Vision</router-link>
             </li> -->
-            <li class="hover:underline hover:font-bold hover:text-black">
+            <li class="hover:underline hover:font-bold hover:text-black text-black">
               <router-link to="/register">Register</router-link>
             </li>
-            <li class="hover:underline hover:font-bold hover:text-black">
+            <li class="hover:underline hover:font-bold hover:text-black text-black">
               <a href="http://www.youthfund.go.ke" target="_blank">YouthFund</a>
               <!-- <router-link to="http://www.youthfund.go.ke">YouthFund</router-link> -->
             </li>
@@ -166,10 +166,10 @@
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-center lg:items-center space-y-2"
           >
-            <li class="hover:underline hover:font-bold hover:text-black">
+            <li class="hover:underline hover:font-bold hover:text-black text-black">
               <router-link to="/contact">FAQs</router-link>
-            </li>
-            <li class="hover:underline hover:font-bold hover:text-black">
+            </li> 
+            <li class="hover:underline hover:font-bold hover:text-black text-black">
               <router-link to="/contact">Support</router-link>
             </li>
             <!-- <li class="hover:underline hover:font-bold hover:text-black">
@@ -189,10 +189,10 @@
           <ul
             class="flex flex-col justify-center items-center lg:flex lg:flex-col lg:justify-center lg:items-center space-y-2"
           >
-            <li class="hover:underline hover:font-bold hover:text-black">
+            <li class="hover:underline hover:font-bold hover:text-black text-black">
               <router-link to="/tcs">Terms of Use</router-link>
             </li>
-            <li class="hover:underline hover:font-bold hover:text-black">
+            <li class="hover:underline hover:font-bold hover:text-black text-black">
               <router-link to="/privacypolicy">Privacy Policy</router-link>
             </li>
             <!-- <li class="hover:underline hover:font-bold hover:text-black">
