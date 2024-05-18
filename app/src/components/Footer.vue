@@ -223,7 +223,7 @@
           <p
             class="flex justify-center items-center lg:flex lg:justify-center lg:items-center"
           >
-            Created by Info-space meta
+            Created by Lish Technologies
           </p>
         </div>
       </div>

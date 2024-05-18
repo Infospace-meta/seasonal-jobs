@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white h-96 flex flex-col justify-center items-center">
+  <div class="bg-white h-auto flex flex-col justify-center items-center">
     <NotFound />
   </div>
 </template>
