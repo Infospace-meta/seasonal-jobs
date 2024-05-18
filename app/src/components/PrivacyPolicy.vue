@@ -1,6 +1,6 @@
 <template>
-  <section class="max-w-5xl mx-auto">
-    <div class="py-5">
+  <section class="max-w-5xl mx-auto ">
+    <div class="py-10 mx-3 sm:mx-5 ">
       <p class="py-2">
         Seasonal Jobs values the privacy of our users. Therefore, this privacy
         policy explains in detail how we use and protect the information we
