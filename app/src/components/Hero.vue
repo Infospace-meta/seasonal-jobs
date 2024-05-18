@@ -76,11 +76,12 @@
         <br /><br />
       </div>
       <div class="lg:mt-0 lg:col-span-5 lg:flex lg:pr-7 pt-4 mx-auto">
-        <img
-          class="rounded-3xl"
-          src="../assets/travel.gif"
-          alt="mockup"
-        />
+        <video
+          src="../assets/travel-around-the-world.mp4"
+          autoplay
+          loop
+          muted
+        ></video>
       </div>
     </div>
     <br />
