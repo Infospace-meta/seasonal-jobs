@@ -60,7 +60,7 @@
           <p class="text-center text-gray-600">
             The “Bring it Home!” concept is one that ensures, investments
             brought are back home
-            <strong class="text-red-500">"Kenya"</strong> .
+           "Kenya" .
           </p>
         </div>
 
