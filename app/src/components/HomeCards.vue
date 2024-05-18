@@ -4,7 +4,7 @@
       <!-- Card 1 -->
       <div class="flex flex-col bg-white">
         <img
-          class="w-full h-52 rounded-2xl"
+          class="w-full h-auto rounded-2xl"
           src="../assets/images/life-in-the-uk.avif"
           alt="Image Description"
           loading="lazy"
@@ -25,8 +25,8 @@
       <!-- Card 2 -->
       <div class="flex flex-col bg-white">
         <img
-          class="w-full h-52 rounded-2xl"
-          src="../assets/images/farm-life.avif"
+          class="w-full h-auto rounded-2xl"
+          src="../assets/images/farm-life-2.avif"
           alt="Image Description"
           loading="lazy"
         />
@@ -46,12 +46,12 @@
       <!-- Card 3 -->
       <div class="flex flex-col bg-white">
         <img
-          class="w-full h-52 rounded-2xl"
+          class="w-full h-auto rounded-2xl"
           src="../assets/images/visit-travel.avif"
           alt="Image Description"
           loading="lazy"
         />
-        <div class="pt-3">
+        <div class="pt-3 h-full">
           <h1 class="text-2xl font-semibold text-gray-800">Travelling to the UK</h1>
           <p class="py-2 text-gray-600">
             It is the responsibility of the applicant to pay for the Biometric
