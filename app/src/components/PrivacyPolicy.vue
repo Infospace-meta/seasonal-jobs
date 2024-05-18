@@ -1,6 +1,7 @@
 <template>
   <section class="max-w-5xl mx-auto ">
     <div class="py-10 mx-3 sm:mx-5 ">
+        <h1 class="font-bold text-3xl text-center py-5">Privacy Policy</h1>
       <p class="py-2">
         Seasonal Jobs values the privacy of our users. Therefore, this privacy
         policy explains in detail how we use and protect the information we
@@ -126,7 +127,7 @@
       </p>
       <h2 class="py-2 font-bold">Kenya’s Privacy Rights</h2>
       <i class="py-2">
-        >Enumerate your state’s privacy codes and any permits, legal age limits,
+        Enumerate your state’s privacy codes and any permits, legal age limits,
         or associated information necessary for people in your specific
         jurisdiction.</i
       >
