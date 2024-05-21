@@ -5,8 +5,8 @@
     </div>
 
     <div class="bg-white">
-      <HomeApplicationProcess />
       <aboutus />
+      <HomeApplicationProcess />
       <HomeCards />
       <Rememberthis />
     </div>

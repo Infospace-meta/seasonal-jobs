@@ -1,6 +1,6 @@
 <template>
   <section class="mx-auto max-w-7xl py-16">
-    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl mx-2">
+    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels-therato-1933239.jpg')] bg-cover rounded-xl mx-2">
       <div class="text-center py-10 space-y-8 text-white">
         <h1 class="text-5xl  font-bold">About Us</h1>
         <p class="text-xl leading-8 tracking-tight px-10 text-white">
@@ -55,11 +55,11 @@
           </div>
 
           <div
-            class="flex justify-center items-center space-x-2 font-serif py-5"
+            class="flex justify-center items-center space-x-2 font-serif py-5 text-xl"
           >
-            <p class="text-xl  font-bold">"Bring</p>
-            <p class="text-xl  font-bold">it</p>
-            <p class="text-xl font-bold">Home!"</p>
+            <p class="  font-bold">"Bring</p>
+            <p class="  font-bold">it</p>
+            <p class=" font-bold">Home!"</p>
           </div>
           <p class="text-center ">
             The “Bring it Home!” concept is one that ensures, investments
