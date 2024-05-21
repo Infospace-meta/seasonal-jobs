@@ -1,9 +1,9 @@
 <template>
-  <section class="mx-auto max-w-5xl py-10">
-    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('./assets/images/pexels.jpg')] bg-cover">
-      <div class="text-center py-10 space-y-8">
-        <h1 class="text-5xl text-gray-900 font-bold">About Us</h1>
-        <p class="text-xl leading-8 tracking-tight px-10 text-gray-600">
+  <section class="mx-auto max-w-7xl py-16">
+    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl mx-2">
+      <div class="text-center py-10 space-y-8 text-white">
+        <h1 class="text-5xl  font-bold">About Us</h1>
+        <p class="text-xl leading-8 tracking-tight px-10 text-white">
           "Seasonal jobs" typically refer to temporary employment opportunities
           that arise during specific times of the year, often due to seasonal
           demand or fluctuations in certain industries. Examples include jobs in
@@ -18,7 +18,7 @@
         class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 lg:grid lg:grid-cols-3 gap-10 px-10 py-5"
       >
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-slate-800 text-white hover:text-gray-900"
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
             <img
@@ -44,7 +44,7 @@
         
 
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-slate-800 text-white hover:text-gray-900 "
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
             <img
@@ -70,7 +70,7 @@
 
 
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl hover:bg-slate-50 bg-slate-800 text-white hover:text-gray-900"
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
             <img
