@@ -58,11 +58,13 @@
     </div>
   </section> -->
 
-  <section class="mx-auto max-w-6xl py-10 ">
+  <section class="mx-auto max-w-7xl py-10">
     <div
       class="bg-[url('../assets/images/grass.jpg')] bg-cover rounded-xl mx-5"
     >
-      <div class="grid grid-cols-1 justify-content-center place-items-center lg:grid-cols-2 lg:justify-content-center lg:place-items-center gap-3  py-8 sm:py-12">
+      <div
+        class="grid grid-cols-1 justify-content-center place-items-center lg:grid-cols-2 lg:justify-content-center lg:place-items-center gap-3 py-8 sm:py-12"
+      >
         <ul
           class="p-5 px-7 list-disc text-white text-xl flex flex-col justify-start items-start border-[2px] bg-black bg-opacity-50 rounded-2xl mx-3 sm:mx-0"
         >
@@ -73,19 +75,21 @@
           <li>Only passport and flight ticket required</li>
         </ul>
 
-        <div class="flex justify-around items-center gap-5 mx-3 sm:mx-0">
+        <div class="flex justify-around items-center gap-5 max-w-4xl mx-auto sm:mx-0">
           <div class="relative bg-white px-5 py-5 text-pg rounded-lg">
             <p>
               Work in the Uk and Get paid Ksh 80,000 Per Week,<br />
               then Invest back home.
             </p>
           </div>
-          <router-link to="/register"><div
-            class="absolute right-6 bottom-12 sm:right-40 sm:bottom-14 lg:right-12 lg:bottom-24 xl:right-48 bg-black text-white px-5 py-5 text-pg rounded-lg "
+          <router-link
+            class="absolute right-6 bottom-12 sm:right-40 sm:bottom-14 lg:right-12 lg:bottom-24 xl:right-48 2xl:right-96 bg-black text-white px-5 py-5 text-pg rounded-lg"
+            to="/register"
           >
-            <p>Register Now</p>
-          </div></router-link>
-          
+            <div>
+              <p>Register Now</p>
+            </div>
+          </router-link>
         </div>
       </div>
     </div>
