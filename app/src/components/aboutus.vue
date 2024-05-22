@@ -71,7 +71,7 @@
 
       <div class="absolute left-32 bottom-6 sm:left-80 sm:bottom-8 bg-white rounded-lg p-1">
         <router-link to="/about"
-          ><button class="px-3 bg-gradient-to-tr from-green-600 to-teal-600 bg-green-800 p-3 text-xl text-gray-700">
+          ><button class="px-3 bg-gradient-to-tr from-green-600 to-teal-600 p-3 text-xl text-gray-700">
             Know More
           </button></router-link
         >

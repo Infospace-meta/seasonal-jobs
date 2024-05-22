@@ -57,6 +57,21 @@
       </div>
     </div>
   </section>
+
+  <section>
+    <div class="bg-[url('../assets/images/grass.jpg')] bg-cover rounded-xl">
+      <ul class="p-5 px-5">
+        <li>Increase in wages per hour in 2024</li>
+        <li>Machinery skills added advantage</li>
+        <li>Accommodation at government rate</li>
+        <li>Only passport and flight ticket required</li>
+      </ul>
+      <div class="blur-0">
+        <div class=" bg-white"></div>
+        <div class=" bg-black"></div>
+      </div>
+    </div>
+  </section>
 </template>
 
 <script setup></script>
