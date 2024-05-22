@@ -1,7 +1,7 @@
 <template>
   <section class="mx-auto max-w-7xl py-16">
     <div
-      class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl mx-2"
+      class="relative grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl h-[36rem] mx-3"
     >
       <!-- <div class="text-center py-10 space-y-8 text-white">
         <h1 class="text-5xl  font-bold">About Us</h1>
@@ -15,10 +15,10 @@
         </p>
       </div> -->
 
-      <div
+      <!-- <div
         class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 lg:grid lg:grid-cols-3 gap-10 px-10 py-5"
-      >
-        <!-- <div
+      > -->
+      <!-- <div
           class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
@@ -42,13 +42,11 @@
             metorship and skills transfer.
           </p>
         </div> -->
+      <div class="absolute w-72 left-8 sm:left-36 bottom-16">
+        <div class="rounded-2xl bg-white p-10">
+          <h1 class="text-4xl font-bold text-center py-2">About Us</h1>
 
-        <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl bg-slate-800 text-white bg-opacity-70 h-120"
-        >
-          <h1 class="text-5xl font-bold text-center">About Us</h1>
-
-          <div class="object-center">
+          <div class="py-4">
             <img
               src="../assets/icons/house-check-fill.svg"
               class="h-12 w-12"
@@ -57,19 +55,29 @@
           </div>
 
           <div
-            class="flex justify-center items-center space-x-2 font-serif py-5 text-xl"
+            class="flex justify-center items-center space-x-2 font-serif py-1 text-xl"
           >
-            <p class="font-bold">"Bring</p>
-            <p class="font-bold">it</p>
-            <p class="font-bold">Home!"</p>
+            <p class="font-bold">"Seasonal</p>
+            <!-- <p class="font-bold">it</p> -->
+            <p class="font-bold">Jobs!"</p>
           </div>
           <p class="text-center">
-            The “Bring it Home!” concept is one that ensures, investments
-            brought are back home "Kenya" .
+            and Youthfund have signed a Partnership Agreement aimed at promoting
+            youth participation in agriculture through the mentorship and skills
+            transfer program known as 'Bring it Home!'
           </p>
         </div>
+      </div>
 
-        <!-- <div
+      <div class="absolute left-32 bottom-6 sm:left-80 sm:bottom-8 bg-white rounded-lg p-1">
+        <router-link to="/about"
+          ><button class="px-3 bg-gradient-to-tr from-green-600 to-teal-600 bg-green-800 p-3 text-xl text-gray-700">
+            Know More
+          </button></router-link
+        >
+      </div>
+
+      <!-- <div
           class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
@@ -90,7 +98,7 @@
             development.
           </p>
         </div> -->
-      </div>
+      <!-- </div> -->
     </div>
   </section>
 </template>
