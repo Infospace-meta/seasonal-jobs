@@ -1,7 +1,7 @@
 <template>
-  <section class="mx-auto max-w-7xl py-16">
+  <section class="mx-auto max-w-6xl py-16">
     <div
-      class="relative grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl h-[36rem] mx-3"
+      class="relative grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/kelly.jpg')] bg-cover rounded-xl h-[36rem] mx-3"
     >
       <!-- <div class="text-center py-10 space-y-8 text-white">
         <h1 class="text-5xl  font-bold">About Us</h1>
