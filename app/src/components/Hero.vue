@@ -32,7 +32,7 @@
       </p>
       <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div class="rounded-md shadow"><a
-                  class="flex w-full items-center justify-center rounded-md border border-transparent bg-red-700 px-8 py-3 text-base font-medium text-white md:py-4 md:px-10 md:text-lg"
+                  class="flex w-full items-center justify-center rounded-md border border-transparent bg-orange-600 px-8 py-3 text-base font-medium text-white md:py-4 md:px-10 md:text-lg"
                   href="#">Explore More</a>
           </div>
       </div>
