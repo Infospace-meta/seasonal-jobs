@@ -1,6 +1,8 @@
 <template>
   <section class="mx-auto max-w-7xl py-16">
-    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl mx-2">
+    <div
+      class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl mx-2"
+    >
       <!-- <div class="text-center py-10 space-y-8 text-white">
         <h1 class="text-5xl  font-bold">About Us</h1>
         <p class="text-xl leading-8 tracking-tight px-10 text-white">
@@ -13,11 +15,10 @@
         </p>
       </div> -->
 
-
       <div
         class="grid grid-cols-1 justify-content-center place-content-center sm:grid sm:grid-cols-2 lg:grid lg:grid-cols-3 gap-10 px-10 py-5"
       >
-        <div
+        <!-- <div
           class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
@@ -40,13 +41,14 @@
             The program is to promote youth participation in Agriculture through
             metorship and skills transfer.
           </p>
-        </div>
-        
+        </div> -->
 
         <div
-          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
+          class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl bg-slate-800 text-white bg-opacity-70 h-120"
         >
-          <div class="ml-10 my-5 p-4 ">
+          <h1 class="text-5xl font-bold text-center">About Us</h1>
+
+          <div class="object-center">
             <img
               src="../assets/icons/house-check-fill.svg"
               class="h-12 w-12"
@@ -57,19 +59,17 @@
           <div
             class="flex justify-center items-center space-x-2 font-serif py-5 text-xl"
           >
-            <p class="  font-bold">"Bring</p>
-            <p class="  font-bold">it</p>
-            <p class=" font-bold">Home!"</p>
+            <p class="font-bold">"Bring</p>
+            <p class="font-bold">it</p>
+            <p class="font-bold">Home!"</p>
           </div>
-          <p class="text-center ">
+          <p class="text-center">
             The “Bring it Home!” concept is one that ensures, investments
-            brought are back home
-           "Kenya" .
+            brought are back home "Kenya" .
           </p>
         </div>
 
-
-        <div
+        <!-- <div
           class="border-[1px] border-gray-300 p-5 rounded-2xl hover:shadow-xl  bg-slate-800 text-white  bg-opacity-70"
         >
           <div class="ml-10 my-5 p-4 ">
@@ -89,9 +89,7 @@
             Empowering youth through enterprise for economic growth and
             development.
           </p>
-        </div>
-
-        
+        </div> -->
       </div>
     </div>
   </section>
