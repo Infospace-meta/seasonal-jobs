@@ -44,7 +44,7 @@
 
           <div>
             <div
-              class="flex items-center justify-center w-16 h-16 mx-auto bg-green-700 border-2 border-gray-200 rounded-full shadow"
+              class="flex items-center justify-center w-16 h-16 mx-auto bg-orange-700 border-2 border-gray-200 rounded-full shadow"
             >
               <span class="text-xl font-semibold text-white"> 2 </span>
             </div>
@@ -92,7 +92,7 @@
           >
             <div>
               <div
-                class="flex items-center justify-center w-16 h-16 mx-auto bg-green-700 border-2 border-gray-200 rounded-full shadow"
+                class="flex items-center justify-center w-16 h-16 mx-auto bg-orange-700 border-2 border-gray-200 rounded-full shadow"
               >
                 <span class="text-xl font-semibold text-white"> 4 </span>
               </div>
@@ -124,7 +124,7 @@
 
             <div>
               <div
-                class="flex items-center justify-center w-16 h-16 mx-auto bg-green-700 border-2 border-gray-200 rounded-full shadow"
+                class="flex items-center justify-center w-16 h-16 mx-auto bg-orange-700 border-2 border-gray-200 rounded-full shadow"
               >
                 <span class="text-xl font-semibold text-white"> 6 </span>
               </div>
