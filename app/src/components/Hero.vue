@@ -17,18 +17,25 @@
 
   <div class="absolute inset-0 block bg-black/60 md:hidden"></div>
 
-  <div class="relative px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-    <div class="text-center md:w-2/3 lg:w-1/2 xl:w-1/3 md:text-left">
+  <div class="relative px-4 mx-auto sm:px-6 lg:px-6 max-w-6xl">
+    <div class="text-center md:w-2/3 lg:w-1/2 xl:w-1/2 md:text-left">
       <h2
-        class="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl"
+        class="text-3xl font-semibold leading-tight text-black sm:text-4xl lg:text-5xl"
       >
-        Get Access Today and Enjoy
+       Earn between £500 & £800 / week
       </h2>
       <p class="mt-4 text-2xl text-gray-900">
-        Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-        sint. Velit officia consequat duis enim velit mollit. Exercitation
-        veniam.
+        No skills required <br><br>
+        Only passport and flight ticket required <br><br>
+        Seasonal job visa program <br><br>
+        Bring it Home! to invest in Kenya
       </p>
+      <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
+          <div class="rounded-md shadow"><a
+                  class="flex w-full items-center justify-center rounded-md border border-transparent bg-red-700 px-8 py-3 text-base font-medium text-white md:py-4 md:px-10 md:text-lg"
+                  href="#">Explore More</a>
+          </div>
+      </div>
     </div>
   </div>
 </section>
