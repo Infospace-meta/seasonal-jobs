@@ -1,7 +1,7 @@
 <template>
-  <section class="mx-auto max-w-7xl py-16">
+  <section class="mx-auto max-w-6xl py-16">
     <div
-      class="relative grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl h-[36rem] mx-3"
+      class="relative grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/medium.jpg')] bg-cover rounded-xl h-[36rem] mx-3"
     >
       <!-- <div class="text-center py-10 space-y-8 text-white">
         <h1 class="text-5xl  font-bold">About Us</h1>
@@ -69,9 +69,9 @@
         </div>
       </div>
 
-      <div class="absolute left-32 bottom-6 sm:left-80 sm:bottom-8 bg-white rounded-lg p-1">
+      <div class="absolute left-32 bottom-6 sm:left-80 sm:bottom-8 bg-white rounded-xl p-1">
         <router-link to="/about"
-          ><button class="px-3 bg-gradient-to-tr from-green-600 to-teal-600 bg-green-800 p-3 text-xl text-gray-700">
+          ><button class="px-3 bg-gradient-to-tr from-green-600 to-teal-600 p-3 text-xl text-white rounded-xl">
             Know More
           </button></router-link
         >
