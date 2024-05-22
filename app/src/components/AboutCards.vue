@@ -22,8 +22,8 @@
       <!-- seasonal job image -->
       <div class="w-full px-5 h-72 rounded-md md:w-5/12">
         <img
-          src="../assets/images/seasonal_logo.webp"
-          class="w-11/12 h-11/12"
+          src="https://img.freepik.com/free-photo/photorealistic-view-woman-harvesting-organic-sustainable-garden_23-2151462891.jpg?t=st=1716370704~exp=1716374304~hmac=68b9f179387c881a5583e4b020d8700a169a9d1303c6ed5f502a1282f96b947a&w=1380"
+          class="w-11/12 h-11/12 rounded-3xl"
           loading="lazy"
         />
       </div>
@@ -79,8 +79,8 @@
 
       <div class="w-full h-72 rounded-md md:w-5/12">
         <img
-          src="../assets/kenya_wbg.png"
-          class="w-full h-full mx-5"
+          src="https://img.freepik.com/free-photo/front-view-smiley-senior-black-woman_23-2149742286.jpg?t=st=1716371057~exp=1716374657~hmac=6dddb8aad3cb37a2429a33299987da05812506ecafb7386267058754a1fecf94&w=1380"
+          class="w-full h-full mx-5 rounded-3xl"
           loading="lazy"
         />
       </div>

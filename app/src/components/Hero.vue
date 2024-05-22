@@ -20,11 +20,11 @@
   <div class="relative px-4 mx-auto sm:px-6 lg:px-6 max-w-6xl">
     <div class="text-center md:w-2/3 lg:w-1/2 xl:w-1/2 md:text-left">
       <h2
-        class="text-3xl font-semibold leading-tight text-black sm:text-4xl lg:text-5xl"
+        class="text-3xl font-semibold text-white lg:text-black sm:text-4xl lg:text-5xl"
       >
        Earn between £500 & £800 / week
       </h2>
-      <p class="mt-4 text-2xl text-gray-900">
+      <p class="mt-4 text-2xl text-white lg:text-gray-900">
         No skills required <br><br>
         Only passport and flight ticket required <br><br>
         Seasonal job visa program <br><br>
@@ -32,7 +32,7 @@
       </p>
       <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div class="rounded-md shadow"><a
-                  class="flex w-full items-center justify-center rounded-md border border-transparent hover:bg-green-700 bg-white px-8 py-3 text-base font-medium text-black md:py-4 md:px-10 md:text-lg"
+                  class="flex w-full items-center justify-center rounded-md border border-transparent bg-orange-600 px-8 py-3 text-base font-medium text-white md:py-4 md:px-10 md:text-lg sm:hover:text-white"
                   href="#">Explore More</a>
           </div>
       </div>
