@@ -1,6 +1,6 @@
 <template>
   <!-- Cards -->
-  <section class="py-10 bg-green-50 sm:py-16 lg:py-24">
+  <section class="py-10 sm:py-16 lg:py-24 px-4 sm:px-8">
     <div class="max-w-2xl mx-auto text-center mb-9">
       <h2
         class="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl"
@@ -16,10 +16,10 @@
       </p>
     </div>
     <div
-      class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-12 max-w-6xl mx-auto"
+      class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 max-w-6xl mx-auto"
     >
       <!-- Card 1 -->
-      <div class="rounded-2xl px-6 py-4 bg-white">
+      <div class="rounded-2xl px-6 py-4 bg-gray-50">
         <div
           class="bg-green-700 flex justify-center items-center mb-8 rounded-xl h-14 w-14"
         >
@@ -31,7 +31,7 @@
         </p>
       </div>
       <!-- Card 2 -->
-      <div class="rounded-2xl px-6 py-4 bg-white">
+      <div class="rounded-2xl px-6 py-4 bg-gray-50">
         <div
           class="bg-green-700 h-14 w-14 flex justify-center items-center mb-8 rounded-xl"
         >
@@ -44,7 +44,7 @@
         </p>
       </div>
       <!-- Card 3 -->
-      <div class="rounded-2xl px-6 py-4 bg-white">
+      <div class="rounded-2xl px-6 py-4 bg-gray-50">
         <div
           class="bg-green-700 h-14 w-14 flex justify-center items-center mb-8 rounded-xl"
         >
@@ -56,7 +56,7 @@
         </p>
       </div>
       <!-- Card 4 -->
-      <div class="rounded-2xl px-6 py-4 bg-white">
+      <div class="rounded-2xl px-6 py-4 bg-gray-50">
         <div
           class="bg-green-700 h-14 w-14 flex justify-center items-center mb-8 rounded-xl"
         >
@@ -66,7 +66,7 @@
         <p class="text-lg text-gray-900">Travel abroad to the UK</p>
       </div>
       <!-- Card 5 -->
-      <div class="rounded-2xl px-6 py-4 bg-white">
+      <div class="rounded-2xl px-6 py-4 bg-gray-50">
         <div
           class="bg-green-700 h-14 w-14 flex justify-center items-center mb-8 rounded-xl"
         >
@@ -78,7 +78,7 @@
         </p>
       </div>
       <!-- Card 6 -->
-      <div class="rounded-2xl px-6 py-4 bg-white">
+      <div class="rounded-2xl px-6 py-4 bg-gray-50">
         <div
           class="bg-green-700 h-14 w-14 flex justify-center items-center mb-8 rounded-xl"
         >
