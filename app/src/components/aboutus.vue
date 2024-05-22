@@ -1,7 +1,7 @@
 <template>
   <section class="mx-auto max-w-7xl py-16">
-    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels-therato-1933239.jpg')] bg-cover rounded-xl mx-2">
-      <div class="text-center py-10 space-y-8 text-white">
+    <div class="grid grid-cols-1 justify-content-center place-content-center bg-[url('../assets/images/pexels.jpg')] bg-cover rounded-xl mx-2">
+      <!-- <div class="text-center py-10 space-y-8 text-white">
         <h1 class="text-5xl  font-bold">About Us</h1>
         <p class="text-xl leading-8 tracking-tight px-10 text-white">
           "Seasonal jobs" typically refer to temporary employment opportunities
@@ -11,7 +11,7 @@
           shopping periods, and tourism-related roles during peak travel
           seasons.
         </p>
-      </div>
+      </div> -->
 
 
       <div
