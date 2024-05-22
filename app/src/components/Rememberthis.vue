@@ -1,5 +1,5 @@
 <template>
-  <section class="mx-auto max-w-6xl py-10">
+  <!-- <section class="mx-auto max-w-6xl py-10">
     <div
       class="mx-5 grid grid-cols-1 sm:grid sm:grid-cols-2 gap-5 rounded-3xl px-10 py-10 bg-gray-100 text-black"
     >
@@ -56,19 +56,33 @@
         </router-link>
       </div>
     </div>
-  </section>
+  </section> -->
 
-  <section>
-    <div class="bg-[url('../assets/images/grass.jpg')] bg-cover rounded-xl">
-      <ul class="p-5 px-5">
-        <li>Increase in wages per hour in 2024</li>
-        <li>Machinery skills added advantage</li>
-        <li>Accommodation at government rate</li>
-        <li>Only passport and flight ticket required</li>
-      </ul>
-      <div class="blur-0">
-        <div class=" bg-white"></div>
-        <div class=" bg-black"></div>
+  <section class="mx-auto max-w-6xl py-10">
+    <div
+      class="bg-[url('../assets/images/grass.jpg')] bg-cover rounded-xl mx-5 flex justify-around items-center py-5"
+    >
+      <div>
+        <ul
+          class="p-5 px-7 list-disc text-white text-xl flex flex-col justify-start items-start border-[2px] bg-black bg-opacity-50 rounded-2xl"
+        >
+          <h1>Remember</h1>
+          <li>Increase in wages per hour in 2024</li>
+          <li>Machinery skills added advantage</li>
+          <li>Accommodation at government rate</li>
+          <li>Only passport and flight ticket required</li>
+        </ul>
+      </div>
+      <div class="flex justify-around items-center gap-5">
+        <div class="relative bg-white px-5 py-5 text-pg rounded-lg">
+          <p>
+            Work in the Uk and Get paid Ksh 80,000 Per Week,<br />
+            then Invest back home.
+          </p>
+        </div>
+        <div class=" absolute right-12 bottom-20 bg-black text-white px-5 py-5 text-pg rounded-lg">
+          <p>Register Now</p>
+        </div>
       </div>
     </div>
   </section>
