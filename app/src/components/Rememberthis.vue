@@ -60,9 +60,9 @@
 
   <section class="mx-auto max-w-6xl py-10">
     <div
-      class="bg-[url('../assets/images/grass.jpg')] bg-cover rounded-xl mx-5 flex justify-around items-center py-5"
+      class="bg-[url('../assets/images/grass.jpg')] bg-cover rounded-xl  "
     >
-      <div>
+      <div class="grid grid-cols-1 justify-content-center place-items-center lg:grid-cols-2 lg:justify-content-center lg:place-items-center gap-3 mx-5 py-8 sm:py-12">
         <ul
           class="p-5 px-7 list-disc text-white text-xl flex flex-col justify-start items-start border-[2px] bg-black bg-opacity-50 rounded-2xl"
         >
@@ -72,16 +72,19 @@
           <li>Accommodation at government rate</li>
           <li>Only passport and flight ticket required</li>
         </ul>
-      </div>
-      <div class="flex justify-around items-center gap-5">
-        <div class="relative bg-white px-5 py-5 text-pg rounded-lg">
-          <p>
-            Work in the Uk and Get paid Ksh 80,000 Per Week,<br />
-            then Invest back home.
-          </p>
-        </div>
-        <div class=" absolute right-12 bottom-20 bg-black text-white px-5 py-5 text-pg rounded-lg">
-          <p>Register Now</p>
+
+        <div class="flex justify-around items-center gap-5">
+          <div class="relative bg-white px-5 py-5 text-pg rounded-lg">
+            <p>
+              Work in the Uk and Get paid Ksh 80,000 Per Week,<br />
+              then Invest back home.
+            </p>
+          </div>
+          <div
+            class="absolute right-2 bottom-14 sm:right-40 sm:bottom-14 lg:right-12 lg:bottom-24 xl:right-48 bg-black text-white px-5 py-5 text-pg rounded-lg "
+          >
+            <p>Register Now</p>
+          </div>
         </div>
       </div>
     </div>
