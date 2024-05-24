@@ -5,7 +5,7 @@
   <div class="absolute inset-0">
     <img
       class="object-cover w-full h-full object-center"
-      src="https://img.freepik.com/free-photo/full-shot-woman-holding-box_23-2149894684.jpg?w=1380&t=st=1716334019~exp=1716334619~hmac=f66229227dd7130e7009ff7f18c7c32caf3a388c6eef81820bbc1f7adb2113e7"
+      src="../assets/images/wooman.png"
       alt=""
     />
   </div>
