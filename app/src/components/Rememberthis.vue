@@ -66,7 +66,7 @@
         class="grid grid-cols-1 justify-content-center place-items-center lg:grid-cols-2 lg:justify-content-center lg:place-items-center gap-3 py-8 sm:py-12"
       >
         <ul
-          class="p-5 px-7 list-disc text-white text-xl md:text-2xl flex flex-col justify-start items-start border-[2px] bg-black backdrop-blur bg-opacity-30 rounded-2xl mx-3 sm:mx-0 space-y-5"
+          class="p-5 px-7 list-disc text-white text-xl md:text-2xl flex flex-col justify-start items-start border-[2px] bg-black backdrop-blur-sm bg-opacity-30 rounded-2xl mx-3 sm:mx-0  space-y-5"
         >
           <h1 class="text-3xl lg:text-4xl font-semibold">Remember</h1>
           <li>Increase in wages per hour in 2024</li>
@@ -82,10 +82,10 @@
               then Invest back home.
             </p>
             <div
-              class="absolute right-1 -bottom-7 sm:right-3 sm:-bottom-8 lg:right-3 lg:-bottom-9 bg-white text-white text-lg rounded-lg p-1"
+              class="absolute right-0 -bottom-7 sm:-right-7 sm:-bottom-8 lg:-right-5 lg:-bottom-9 bg-white text-white text-lg rounded-xl p-1"
             >
               <router-link to="/register">
-                <div class="p-4 bg-black">
+                <div class="p-4 bg-black rounded-xl">
                   <p>Register Now</p>
                 </div>
               </router-link>
