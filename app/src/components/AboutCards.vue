@@ -23,7 +23,7 @@
       <div class="w-full px-5 h-72 rounded-md md:w-5/12">
         <img
           src="../assets/images/pickfruit.jpg"
-          class="w-11/12 h-11/12 rounded-3xl"
+          class="w-full h-full rounded-3xl"
           loading="lazy"
         />
       </div>
@@ -80,7 +80,7 @@
       <div class="w-full h-72 rounded-md md:w-5/12">
         <img
           src="../assets/images/womansmiles.jpg"
-          class="w-full h-full mx-5 rounded-3xl"
+          class="w-full h-full rounded-3xl px-4"
           loading="lazy"
         />
       </div>
