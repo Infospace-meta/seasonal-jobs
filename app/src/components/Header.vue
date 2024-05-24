@@ -34,46 +34,46 @@
         </div> -->
           <router-link
             :to="{ name: 'home' }"
-            active-class="active-link"
-            class="text-lg text-gray-700 font-medium hover:text-cyan-600"
+            active-class="text-green-600"
+            class="text-lg text-gray-700 font-medium"
             @click="toggleMenu"
             ><div
               class="inline-flex items-baseline justify-center max-lg:w-full lg:p-5 pt-5 rounded-md"
             >
-              <span class="text-lg font-medium text-gray-700">Home</span>
+              Home
             </div>
           </router-link>
           <router-link
             :to="{ name: 'about' }"
-            active-class="active-link"
-            class="text-lg text-gray-700 font-medium hover:text-cyan-600"
+            active-class="text-green-600"
+            class="text-lg text-gray-700 font-medium"
             @click="toggleMenu"
             ><div
               class="inline-flex justify-center max-lg:w-full lg:p-5 pt-5 rounded-md"
             >
-              <span class="text-lg font-medium text-gray-700">About</span>
+              About
             </div>
           </router-link>
           <router-link
             :to="{ name: 'contact' }"
-            active-class="active-link"
-            class="text-lg text-gray-700 font-medium hover:text-cyan-600"
+            active-class="text-green-600"
+            class="text-lg text-gray-700 font-medium"
             @click="toggleMenu"
             ><div
               class="inline-flex justify-center max-lg:w-full lg:p-5 pt-5 rounded-md"
             >
-              <span class="text-lg font-medium text-gray-700">Contact Us</span>
+              Contact Us
             </div>
           </router-link>
           <router-link
             :to="{ name: 'register' }"
-            active-class="active-link"
-            class="text-lg text-gray-700 font-medium hover:text-cyan-600"
+            active-class="text-green-600"
+            class="text-lg text-gray-700 font-medium"
             @click="toggleMenu"
             ><div
               class="inline-flex justify-center max-lg:w-full lg:p-5 pt-5 rounded-md"
             >
-              <span class="text-lg font-medium text-green-700">Register</span>
+              Register
             </div>
           </router-link>
         </nav>
@@ -84,10 +84,9 @@
             alt="youth-fund logo"
           />
           <router-link
-            :to="{ name: 'home' }"
+            :to="{ name: 'register' }"
             active-class="active-link"
             class="lg:hidden text-gray-700 font-medium hover:text-cyan-600"
-            @click="toggleMenu"
             ><div
               class="inline-flex justify-center max-lg:w-full lg:p-5 pt-5 rounded-md"
             >
