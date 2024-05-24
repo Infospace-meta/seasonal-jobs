@@ -5,7 +5,7 @@
   <div class="absolute inset-0">
     <img
       class="object-cover w-full h-full object-center"
-      src="../assets/images/wooman.png"
+      src="../assets/images/wooman.webp"
       alt=""
     />
   </div>
