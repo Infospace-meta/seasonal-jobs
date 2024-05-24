@@ -5,8 +5,9 @@
       <div
         class="w-full h-[400px] relative bg-[url('../assets/images/life-in-the-uk.avif')] bg-no-repeat bg-cover rounded-2xl"
       >
+      <!-- Background color -->
         <div class="absolute inset-0 bg-gray-900 bg-opacity-30 rounded-2xl">
-          <div class="absolute inset-x-0 bottom-0 p-4">
+          <div class="absolute inset-x-0 bottom-0 p-6">
             <h1 class="text-3xl font-semibold text-white">Life in the UK</h1>
             <p class="text-white py-3">
               Upon arrival You are collected by the Sponsor from the arrival
@@ -25,7 +26,7 @@
         class="w-full h-[400px] relative bg-[url('../assets/images/farm-life-2.avif')] bg-no-repeat bg-cover rounded-2xl"
       >
         <div class="absolute inset-0 bg-gray-900 bg-opacity-30 rounded-2xl">
-          <div class="absolute inset-x-0 bottom-0 p-4">
+          <div class="absolute inset-x-0 bottom-0 p-6">
             <h1 class="text-3xl font-semibold text-white">Farm Life</h1>
             <p class="text-white py-3">
               Participants will undergo a brief but detailed training program
@@ -44,7 +45,7 @@
         class="w-full h-[400px] relative bg-[url('../assets/images/visit-travel.avif')] bg-no-repeat bg-cover rounded-2xl"
       >
         <div class="absolute inset-0 bg-gray-900 bg-opacity-25 rounded-2xl">
-          <div class="absolute inset-x-0 bottom-0 p-4">
+          <div class="absolute inset-x-0 bottom-0 p-6">
             <h1 class="text-3xl font-semibold text-white">
               Travelling to the UK
             </h1>
