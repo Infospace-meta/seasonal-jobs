@@ -3,6 +3,8 @@ import AboutView from "./AboutView.vue";
 import ContactView from "./ContactView.vue";
 import RegisterView from "./RegisterView.vue";
 import TCsView from "./TCsView.vue";
-import FindMore from "./FindMore.vue"
+import FindMore from "./FindMore.vue";
+import NotFoundView from "./NotFoundView.vue";
+import PrivacyPolicyView from "./PrivacyPolicyView.vue";
 
-export { HomeView, AboutView, ContactView, RegisterView, TCsView, FindMore };
+export { HomeView, AboutView, ContactView, RegisterView, TCsView, FindMore, NotFoundView, PrivacyPolicyView };

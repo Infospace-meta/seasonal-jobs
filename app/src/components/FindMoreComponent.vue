@@ -25,25 +25,25 @@
      
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/boardingplane.jpg"
+        src="../assets/images/boardingplane.webp"
         alt="Image Description"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/flyout2.jpeg"
+        src="../assets/images/flyout2.webp"
         alt="Image Description"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/KQ-2.jpg"
+        src="../assets/images/KQ-2.webp"
         alt="Image Description"
       />
       <!-- Image 4 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/flyout1.jpeg"
+        src="../assets/images/flyout1.webp"
         alt="Image Description"
       />
     </div>
@@ -73,26 +73,30 @@
       <!-- Image 1 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/sleeepingchambers.png"
+        src="../assets/images/sleeepingchambers.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/sittingarea.png"
+        src="../assets/images/sittingarea.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/pooltables.png"
+        src="../assets/images/pooltables.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 4 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/recreationalactivities.png"
+        src="../assets/images/recreationalactivities.webp"
         alt="Image Description"
+        loading="lazy"
       />
     </div>
   </section>
@@ -124,26 +128,30 @@
 
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/cabbages.png"
+        src="../assets/images/cabbages.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 2 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/berries.png"
+        src="../assets/images/berries.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 3 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/mushrooms.png"
+        src="../assets/images/mushrooms.webp"
         alt="Image Description"
+        loading="lazy"
       />
       <!-- Image 4 -->
       <img
         class="w-full h-52 rounded-2xl"
-        src="../assets/images/tractors.png"
+        src="../assets/images/tractors.webp"
         alt="Image Description"
+        loading="lazy"
       />
     </div>
   </section>

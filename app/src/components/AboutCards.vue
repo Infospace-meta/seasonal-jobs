@@ -21,7 +21,11 @@
 
       <!-- seasonal job image -->
       <div class="w-full px-5 h-72 rounded-md md:w-5/12">
-        <img src="../assets/images/seasonal_logo.png" class="w-11/12 h-11/12" />
+        <img
+          src="../assets/images/pickfruit.jpg"
+          class="w-full h-full rounded-3xl"
+          loading="lazy"
+        />
       </div>
     </div>
 
@@ -32,8 +36,9 @@
       <!-- bring it image  home -->
       <div class="w-full h-72 rounded-md px-5 md:w-5/12">
         <img
-          src="../assets/images/blueberries.png"
+          src="../assets/images/blueberries.webp"
           class="w-full h-full rounded-3xl"
+          loading="lazy"
         />
       </div>
 
@@ -73,7 +78,11 @@
       <!-- Bring it home image -->
 
       <div class="w-full h-72 rounded-md md:w-5/12">
-        <img src="../assets/kenya_wbg.png" class="w-full h-full mx-5" />
+        <img
+          src="../assets/images/womansmiles.jpg"
+          class="w-full h-full rounded-3xl px-4"
+          loading="lazy"
+        />
       </div>
     </div>
 
@@ -84,8 +93,9 @@
       <!-- Youthfund image -->
       <div class="w-full h-72 rounded-md md:w-5/12">
         <img
-          src="../assets/images/youth_logo.png"
+          src="../assets/images/youth_logo.webp"
           class="w-10/12 h-full mx-5"
+          loading="lazy"
         />
       </div>
 
